@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Muhammad Afzal Kalwar 👋
 
-<!--
-**mafzalkalwardev/mafzalkalwardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a Full-Stack & AI Developer focused on building SaaS applications, backend systems, and smart web platforms.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express.js
+- Database: MongoDB, PostgreSQL, Prisma
+- AI/Tools: AI APIs, Git, GitHub, Cursor, CodeGraph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- CallAudit-X
+- Email Verification Platform
+- Email Verifier Pro
+
+## 📌 Currently Learning
+- Advanced Backend Development
+- AI Integration
+- SaaS Development
+- Deployment & DevOps
+
+## 📫 Contact
+- GitHub: @mafzalkalwardev
+- Email: 243472@students.au.edu.pk
+- LinkedIn: https://www.linkedin.com/in/muhammad-afzal-2670b527b/
