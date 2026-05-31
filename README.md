@@ -1,96 +1,85 @@
-<div align="center">
-
 # Muhammad Afzal Kalwar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Automation+Engineer;AI+%26+Data+Systems+Builder;Web+Scraping+%26+Browser+Automation;Logistics+%2B+Dispatch+Tech+Solutions;Building+Unpredictable+Apps+%26+Webs" alt="Typing SVG" />
+<div align="center">
 
-<br/>
+## Full-Stack Developer • Automation Engineer • AI Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mafzalkalwardev?style=for-the-badge&color=00d4ff&labelColor=111827" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/mafzalkalwardev?style=for-the-badge&color=00d4ff&labelColor=111827" alt="GitHub Stars" />
+### Building automation systems, AI tools, web scrapers, logistics platforms, dashboards, and real-world business software.
 
-<br/><br/>
-
-**Full-Stack Developer • Automation Engineer • AI Enthusiast**
-**Building AI, Web Apps, Scrapers, Automation Systems & Logistics Tech**
+<p>
+  <a href="https://github.com/mafzalkalwardev">
+    <img src="https://img.shields.io/badge/GitHub-mafzalkalwardev-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.industransports.online/">
+    <img src="https://img.shields.io/badge/Website-INDUS%20TRANSPORTS-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-afzal-2670b527b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
-
-I am **Muhammad Afzal Kalwar**, a developer focused on building practical, business-ready software systems.
-
-I work across **full-stack web development, Python automation, browser automation, AI-powered tools, logistics platforms, web scraping systems, email automation, and SaaS-style dashboards**.
-
-My work is centered around one idea:
-
-> Build software that saves time, automates hard workflows, and solves real business problems.
+## Profile Snapshot
 
 ```yaml
 name: Muhammad Afzal Kalwar
-username: mafzalkalwardev
-roles:
-  - Full-Stack Developer
-  - Automation Engineer
-  - AI Enthusiast
-  - Web Scraping Developer
-  - Logistics Tech Builder
+github: mafzalkalwardev
+role: Full-Stack Developer | Automation Engineer | AI Enthusiast
 
-focus:
-  - AI-powered applications
-  - Full-stack web platforms
+specialized_in:
+  - Full-stack web applications
+  - Python automation
   - Browser automation
-  - Data extraction systems
-  - CRM and dashboard systems
-  - Logistics and dispatch tools
-  - Email and outreach automation
-  - SaaS product development
+  - Web scraping systems
+  - AI-powered tools
+  - Logistics and dispatch software
+  - Email automation
+  - CRM dashboards
+  - Data extraction pipelines
 
 currently_building:
-  - AI call auditing systems
+  - Call auditing and AI analysis tools
   - Fiverr lead extraction CRM
-  - Web scraping automation tools
+  - Playwright-based scraping systems
   - Dispatch and logistics platforms
-  - Email verification and outreach systems
+  - Email verification and automation tools
 ```
 
 ---
 
-## Core Expertise
+## What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### AI & Automation
+### AI & Automation Systems
 
-* AI-powered call auditing
-* Browser automation
-* Web scraping systems
-* Desktop automation
-* Lead extraction workflows
-* Email automation
-* SMS automation
-* Data cleaning pipelines
-* Resume/retry automation systems
+* AI call auditing platforms
+* Browser automation tools
+* Web scraping pipelines
+* Verification automation
+* Auto dialer workflows
+* Email and SMS automation
+* Data cleaning systems
+* Resume/retry-based automation
 
 </td>
 <td width="50%">
 
-### Full-Stack Engineering
+### Full-Stack Platforms
 
-* Node.js backend systems
-* Express.js APIs
-* MongoDB databases
-* Authentication systems
 * Admin dashboards
-* CRM platforms
-* EJS / HTML / Bootstrap UIs
-* SaaS-style applications
-* Deployment-ready web apps
+* CRM systems
+* SaaS-style products
+* Authentication systems
+* Analytics panels
+* Logistics websites
+* Testing platforms
+* Business workflow applications
 
 </td>
 </tr>
@@ -103,170 +92,158 @@ currently_building:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/EJS-111827?style=for-the-badge&logo=ejs&logoColor=white" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-### Automation, Scraping & AI
+### Automation & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,python,tensorflow" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+<img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" />
+<img src="https://img.shields.io/badge/PyAutoGUI-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
 ---
 
-## Featured Projects
+## Featured Engineering Work
 
 <table>
 <tr>
 <td width="50%">
 
-## CallAudit-X
+### CallAudit-X
 
-**AI-powered call auditing, transcription, scoring, and analytics SaaS platform.**
+AI-powered call auditing and analytics platform.
 
-Built for analyzing calls, extracting insights, scoring conversations, and helping teams understand call quality.
+**Built for:**
 
-**Highlights**
-
+* Call transcription
+* Conversation scoring
 * AI call analysis
-* Transcription workflow
-* Scoring system
-* Analytics dashboard
-* SaaS-style architecture
-* TypeScript-based development
+* Performance insights
+* SaaS-style reporting
 
-**Tech Focus:** TypeScript, AI, SaaS, Analytics
+**Keywords:** AI SaaS, Call Analytics, TypeScript, Automation
 
 </td>
 <td width="50%">
 
-## Fiverr Lead Extractor CRM
+### Fiverr Lead Extractor CRM
 
-**Full-stack CRM for extracting Fiverr gig reviews and lead data with Playwright automation.**
+Advanced Fiverr scraping and lead extraction CRM.
 
-A serious automation system built around lead extraction, review scraping, filtering, CRM management, worker queues, MongoDB, Excel export, and desktop workflow support.
-
-**Highlights**
+**Built for:**
 
 * Fiverr gig review extraction
-* US/Canada filtering
-* Live Playwright automation
-* Manual URL support
-* HTML import support
-* BullMQ worker system
+* Lead filtering
+* Automated verification workflow
+* CRM management
 * MongoDB storage
 * Excel export
-* Admin panel
-* Electron desktop support
-* Automated verification workflow
+* Resume and retry system
 
-**Tech Focus:** TypeScript, Playwright, MongoDB, BullMQ, Electron
+**Keywords:** Playwright, CRM, Scraping, Automation, MongoDB
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-## Python Auto Dialer Pro
+### Python Auto Dialer Pro
 
-**Python GUI-based auto dialer system with Excel contact loading, automated calling, logging, resume support, and desktop automation.**
+Desktop auto dialer system built with Python automation.
 
-Built for structured call workflows and operational productivity.
-
-**Highlights**
+**Built for:**
 
 * Excel contact loading
-* Automated calling workflow
+* Automated dialing
 * Call logging
 * Resume support
-* Keyboard shortcuts
+* Desktop GUI workflow
 * PyAutoGUI automation
-* Desktop GUI
 
-**Tech Focus:** Python, Tkinter, PyAutoGUI, Excel Automation
+**Keywords:** Python, Tkinter, PyAutoGUI, Desktop Automation
 
 </td>
 <td width="50%">
 
-## Playwright Website Scraper Pro
+### Playwright Website Scraper Pro
 
-**Advanced Playwright-based website scraping and cloning tool with GUI, backend controls, asset downloading, screenshots, and multi-page export.**
+Website scraping and cloning automation system.
 
-Built for extracting and preserving website structures with automation.
+**Built for:**
 
-**Highlights**
-
-* Website scraping
-* Website cloning
+* Multi-page scraping
 * Asset downloading
 * Screenshot capture
-* Multi-page export
-* Desktop GUI
-* Express.js backend
-* Real-time controls
+* Website export
+* GUI control
+* Backend automation
 
-**Tech Focus:** Playwright, Express.js, Automation, Scraping
+**Keywords:** Playwright, Express.js, Web Scraping, Automation
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-## QuizMaster Online Testing System
+### QuizMaster Online Testing System
 
-**Complete online quiz and testing management system built with Node.js, Express.js, MongoDB, EJS, and MVC architecture.**
+Full-stack online testing and quiz platform.
 
-A full-stack education platform with authentication, quiz management, analytics, and leaderboard functionality.
+**Built for:**
 
-**Highlights**
-
-* Student/admin workflows
-* Quiz management
+* Student quiz attempts
+* Admin quiz management
 * Authentication
-* Leaderboard
-* Analytics
+* Leaderboards
+* Result analytics
 * MVC architecture
-* MongoDB database
 
-**Tech Focus:** Node.js, Express.js, MongoDB, EJS
+**Keywords:** Node.js, Express.js, MongoDB, EJS
 
 </td>
 <td width="50%">
 
-## MNIST CNN Digit Recognition
+### MNIST CNN Digit Recognition
 
-**Deep learning project using TensorFlow and CNNs to recognize handwritten digits from the MNIST dataset.**
+Deep learning project for handwritten digit recognition.
 
-Includes model training, prediction, GUI testing, custom image testing, and performance visualization.
+**Built for:**
 
-**Highlights**
+* CNN model training
+* TensorFlow/Keras workflow
+* Custom image prediction
+* GUI-based testing
+* Model evaluation
 
-* CNN model
-* TensorFlow / Keras
-* GUI prediction
-* Custom image testing
-* Training visualization
-* Deep learning workflow
-
-**Tech Focus:** Python, TensorFlow, Keras, Deep Learning
+**Keywords:** Python, TensorFlow, Keras, Deep Learning
 
 </td>
 </tr>
@@ -274,196 +251,76 @@ Includes model training, prediction, GUI testing, custom image testing, and perf
 
 ---
 
-## Automation & Logistics Projects
+## Project Categories
 
-<table>
-<tr>
-<td width="50%">
-
-### FMCSA / SAFER Data Automation
-
-Projects focused on carrier and logistics data extraction.
-
-* `safer-web-scraper`
-* `safer-carrier-extractor`
-* `fmcsa-safer-scraper`
-* `pdf-mc-number-extractor`
-* `excel-mc-data-cleaner`
-* `excel-state-extractor-formula`
-
-**Built for:** carrier data extraction, MC number processing, dispatch data cleaning, email validation, and logistics workflows.
-
-</td>
-<td width="50%">
-
-### Email & Outreach Automation
-
-Projects focused on communication automation.
-
-* `multi-smtp-email-automation`
-* `python-smtp-email-automation`
-* `forward-email-automation`
-* `email-verification-platform`
-* `email-verifier-pro`
-* `python-sms-automation`
-
-**Built for:** bulk verification, outreach, email processing, SMTP automation, retry systems, and contact workflow management.
-
-</td>
-</tr>
-</table>
+| Category        | Projects                                                                        |
+| --------------- | ------------------------------------------------------------------------------- |
+| AI & Analytics  | CallAudit-X, MNIST CNN Digit Recognition                                        |
+| Automation      | Python Auto Dialer Pro, Python SMS Automation, Mouse Coordinate Tracker         |
+| Web Scraping    | Fiverr Lead Extractor CRM, Playwright Website Scraper Pro, SAFER/FMCSA Scrapers |
+| Logistics Tech  | Indus Transports Website, Carrier Data Extractors, MC Number Tools              |
+| Email Systems   | Multi SMTP Email Automation, Email Verification Platform, Email Verifier Pro    |
+| Full-Stack Apps | QuizMaster Online Testing System, Portfolio, CRM Projects                       |
+| Data Tools      | Excel Cleaner, PDF MC Extractor, State Extractor Formula                        |
 
 ---
 
-## Business & Web Platforms
-
-<table>
-<tr>
-<td width="50%">
-
-### Indus Transports Dispatch Website
-
-Professional logistics and truck dispatch website with SEO optimization, onboarding forms, responsive pages, and earnings calculator.
-
-**Focus:** logistics, truck dispatch, SEO, lead conversion, responsive design.
-
-</td>
-<td width="50%">
-
-### Email Verification Platform
-
-Full-stack email verification web app with JWT authentication, bulk CSV/XLSX validation, MongoDB history tracking, dashboard analytics, and EmailListVerify API integration.
-
-**Focus:** SaaS dashboard, authentication, bulk validation, MongoDB analytics.
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## Current Engineering Focus
+## Engineering Mindset
 
 ```python
 class MuhammadAfzalKalwar:
-    def __init__(self):
-        self.role = "Full-Stack Developer & Automation Engineer"
-        self.focus = [
-            "AI-powered systems",
-            "Browser automation",
-            "Web scraping",
-            "Logistics software",
-            "Full-stack SaaS platforms",
-            "Email and outreach automation",
-            "Data extraction pipelines",
-            "Business workflow automation"
-        ]
+    role = "Full-Stack Developer & Automation Engineer"
 
     def build(self):
-        while True:
-            self.solve_real_problem()
-            self.automate_repetitive_work()
-            self.ship_production_ready_systems()
-            self.learn_and_improve()
+        return [
+            "real business tools",
+            "automation systems",
+            "scraping pipelines",
+            "AI-powered platforms",
+            "dashboards and CRMs",
+            "logistics software",
+            "email and outreach systems"
+        ]
+
+    def principle(self):
+        return "Build practical software that saves time, scales workflows, and solves real problems."
 ```
 
 ---
 
-## What Makes My Work Different
+## Why My Work Stands Out
 
-* I build tools for **real workflows**, not just demos.
-* I focus on **automation that saves time and reduces manual work**.
-* I work with **data extraction, logistics, outreach, and AI systems**.
-* I build both **frontend interfaces and backend engines**.
-* I care about **resume support, retries, logs, dashboards, and usability**.
-* I turn messy manual processes into structured software systems.
-
----
-
-## Repository Categories
-
-| Category       | Projects                                                                  |
-| -------------- | ------------------------------------------------------------------------- |
-| AI & ML        | MNIST CNN Digit Recognition, CallAudit-X                                  |
-| Automation     | Python Auto Dialer Pro, Python SMS Automation, Mouse Coordinate Tracker   |
-| Web Scraping   | Playwright Website Scraper Pro, Fiverr Lead Extractor CRM, SAFER Scrapers |
-| Logistics Tech | Indus Transports Dispatch Website, FMCSA/SAFER Extractors                 |
-| Email Systems  | Multi SMTP Automation, Email Verification Platform, Email Verifier Pro    |
-| Web Apps       | QuizMaster Online Testing System, Portfolio, Dev Projects                 |
-| Data Tools     | PDF MC Extractor, Excel Cleaner, State Extractor Formula                  |
+* I build practical systems, not only UI demos.
+* I focus on automation that reduces manual work.
+* I work with real business workflows: dispatch, outreach, scraping, verification, CRM, and analytics.
+* I can build both frontend dashboards and backend automation engines.
+* I care about logs, retries, resume support, exports, and usability.
+* I turn repetitive manual processes into structured software.
 
 ---
 
-## Professional Keywords
+## Search Keywords
 
-`Full-Stack Developer` `Automation Engineer` `Python Developer` `Node.js Developer` `MongoDB` `Playwright` `Selenium` `Web Scraping` `AI Systems` `Email Automation` `Logistics Software` `CRM Development` `SaaS Development` `Data Extraction` `Business Automation` `TypeScript` `Express.js` `Dashboard Development`
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/mafzalkalwardev">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-afzal-2670b527b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.industransports.online/">
-<img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-
-</div>
+`Full-Stack Developer` `Automation Engineer` `Python Developer` `Node.js Developer` `MongoDB Developer` `Playwright Automation` `Selenium Automation` `Web Scraping` `AI Tools` `Email Automation` `Logistics Software` `CRM Development` `SaaS Development` `Data Extraction` `Business Automation` `TypeScript Developer` `Express.js Developer` `Dashboard Development`
 
 ---
 
 <div align="center">
 
-## Building software that automates work, scales operations, and solves real business problems.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:111827&height=120&section=footer" />
+## Building software that automates workflows, scales operations, and solves real business problems.
 
 </div>
