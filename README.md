@@ -301,10 +301,12 @@ class MuhammadAfzalKalwar:
 
 <div align="center">
 
-```text
-while(alive) {
-    build();
-    automate();
-    improve();
-    scale();
-}
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=140&section=footer" />
+
+</div>
