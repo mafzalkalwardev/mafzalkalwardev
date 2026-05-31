@@ -298,3 +298,13 @@ class MuhammadAfzalKalwar:
 ## ⚡ Building systems that automate workflows and solve real-world business problems.
 
 </div>
+
+<div align="center">
+
+```text
+while(alive) {
+    build();
+    automate();
+    improve();
+    scale();
+}
