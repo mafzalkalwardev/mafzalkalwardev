@@ -9,8 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mafzalkalwardev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
 [![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mafzalkalwardev.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
 [![Repos](https://img.shields.io/badge/Open%20Source-40%2B%20Repos-22C55E?style=for-the-badge&logo=github)](https://github.com/mafzalkalwardev?tab=repositories)
-[![License](https://img.shields.io/badge/Projects-MIT%20Licensed-yellow?style=for-the-badge)](https://github.com/mafzalkalwardev)
 
 <br/>
 
@@ -20,20 +20,39 @@
 
 ---
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ## 👨‍💻 About Me
 
-I'm **Muhammad Afzal Kalwar**, a **Full-Stack Developer** and **Automation Engineer** at **FT Solutions**. I build production software that automates real business workflows — from multi-line Google Voice dialers and email verification platforms to CRM systems, scrapers, and logistics tooling.
+I'm **Muhammad Afzal Kalwar** — **Full-Stack Developer** & **Automation Engineer** at **FT Solutions** (Islamabad, Pakistan).
 
-**What I ship:**
+I build production software that automates real business workflows: multi-line Google Voice dialers, self-hosted email verification, CRM systems, scrapers, and logistics tooling.
 
-| Area | Examples from my repos |
-|------|------------------------|
-| **Telephony & dialers** | PyQt6 auto dialers, AMD, predictive pacing, Google Voice integration |
-| **Email systems** | Bulk verification (Go + Node), SMTP automation, MailForge |
-| **Automation & scraping** | Playwright, Selenium, FMCSA/SAFER extractors, lead CRMs |
-| **Web & dashboards** | React/TS SaaS, dispatch websites, learning dashboards |
-| **AI / ML** | Call auditing, Whisper audio, TensorFlow CNN, Groq-assisted agents |
-| **Data & Excel** | pandas, openpyxl, VBA cleaners, PDF MC extractors |
+**What I ship**
+
+| Area | From my repos |
+|------|---------------|
+| 📞 **Telephony** | PyQt6 dialers · AMD · predictive pacing · Google Voice |
+| 📧 **Email** | Bulk verification (Go + Node) · SMTP · MailForge |
+| 🕷 **Automation** | Playwright · Selenium · FMCSA/SAFER · lead CRMs |
+| 🌐 **Web & SaaS** | React/TS dashboards · dispatch sites |
+| 🧠 **AI / ML** | Whisper · Groq agents · CallAudit · TensorFlow |
+| 📊 **Data** | pandas · openpyxl · VBA · PDF extractors |
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Typing on computer" />
+
+<br/>
+
+<sub><em>Shipping automation, one commit at a time ⌨️</em></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,109 +60,78 @@ I'm **Muhammad Afzal Kalwar**, a **Full-Stack Developer** and **Automation Engin
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📞 [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)
 
 Production Windows dialer for transport operations.
 
-* Multi-line Google Voice (`QWebEngineView`)
-* AMD fusion · predictive pacing · CRM (SQLite)
-* Excel lists · agent/admin roles · WebSocket supervisor
+* Multi-line Google Voice · AMD · predictive pacing
+* CRM (SQLite) · Excel lists · WebSocket supervisor
 
-**Stack:** Python · PyQt6 · Whisper · WebSockets
+**Stack:** `Python` `PyQt6` `Whisper` `WebSockets`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📧 [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier)
 
 Self-hosted bulk email verification — no paid APIs.
 
 * Syntax · MX · live SMTP dialog
-* Go + Node.js engines · Docker optional
-* CSV export · self-hosted
+* Go + Node.js · Docker · CSV export
 
-**Stack:** Go · Node.js · Docker · SMTP
+**Stack:** `Go` `Node.js` `Docker` `SMTP`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)
 
 AI sales agent on Google Voice.
 
-* Selenium automation · Groq scripts
-* Voicemail detection · local TTS
-* CRM-style call workflows
+* Selenium · Groq scripts · voicemail detection
+* Local TTS · CRM call workflows
 
-**Stack:** Python · FastAPI · Selenium · Groq
+**Stack:** `Python` `FastAPI` `Selenium` `Groq`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)
 
 Fiverr scraping and CRM platform.
 
-* Playwright automation · MongoDB
-* Excel export · resume/retry
-* Verification workflows
+* Playwright · MongoDB · Excel export
+* Resume/retry · verification workflows
 
-**Stack:** TypeScript · Playwright · MongoDB
+**Stack:** `TypeScript` `Playwright` `MongoDB`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X)
 
 AI call auditing and analytics.
 
-* Transcription · scoring · dashboards
-* SaaS-style architecture
+* Transcription · scoring · SaaS dashboards
 
-**Stack:** TypeScript · AI pipelines
+**Stack:** `TypeScript` `AI pipelines`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✉️ [MailForge](https://github.com/mafzalkalwardev/mailforge)
 
 Email tooling and automation backend.
 
-* SMTP workflows · templates
-* Go services
+* SMTP workflows · templates · Go services
 
-**Stack:** Go · SMTP · Automation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🕷 [Playwright Website Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)
-
-Multi-page scraping and cloning.
-
-* Screenshots · asset download · GUI
-
-**Stack:** Playwright · Node.js · Express
-
-</td>
-<td width="50%">
-
-### 🧠 [MNIST CNN Digit Recognition](https://github.com/mafzalkalwardev/mnist-cnn-digit-recognition)
-
-Handwritten digit recognition with GUI.
-
-* CNN training · TensorFlow/Keras
-* Live prediction on custom images
-
-**Stack:** Python · TensorFlow · scikit-learn
+**Stack:** `Go` `SMTP`
 
 </td>
 </tr>
@@ -153,67 +141,62 @@ Handwritten digit recognition with GUI.
 
 ## 🛠 Tech Stack
 
-*Icons reflect languages, frameworks, and tools used across my **40+ open-source repositories**.*
+<div align="center">
 
-### Languages
+*Languages, frameworks & tools across **40+ open source repositories***
 
-<p align="left">
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,cs,html,css,bash" />
-</p>
 
-### Frontend & Desktop UI
+**Frontend & Desktop**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,qt" />
-</p>
 
-<sub>Desktop: **PyQt6** · **QWebEngine** · Tkinter · EJS templates · static HTML/CSS sites</sub>
+<sub>PyQt6 · QWebEngine · Tkinter · EJS · HTML/CSS</sub>
 
-### Backend & APIs
+**Backend & APIs**
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,fastapi,flask,dotnet" />
-</p>
 
-### Databases & Data
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
+**Databases & Data**
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,redis" />
-</p>
 
-<sub>Also: **pandas** · **openpyxl** · Excel/VBA automation · Jupyter notebooks</sub>
+<sub>pandas · openpyxl · Excel/VBA · Jupyter</sub>
 
-### Automation, Scraping & Testing
+**Automation & AI**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=selenium,playwright,puppeteer,docker,cypress" />
-</p>
+<img src="https://skillicons.dev/icons?i=selenium,playwright,docker,tensorflow,pytorch,sklearn" />
 
-<sub>Also: **PyAutoGUI** · **WebSockets** · FMCSA/SAFER scrapers · RDP automation</sub>
+<sub>PyAutoGUI · WebSockets · Whisper · Groq · AMD</sub>
 
-### AI / Machine Learning
+**DevOps & Tools**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,nginx,vite" />
 
-<sub>Also: **faster-whisper** · **Groq** · AMD/tone detection · call analytics</sub>
+</td>
+</tr>
+</table>
 
-### DevOps & Tools
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,nginx,webpack,vite" />
-</p>
-
-### Domain stack *(from production repos)*
-
-<p align="left">
 <img src="https://img.shields.io/badge/Google_Voice-Telephony-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/SMTP-Email_Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-pandas%20%2B%20openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/PyInstaller-Windows_EXE-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/FMCSA-SAFER_Scraping-1E40AF?style=for-the-badge" />
-</p>
+
+</div>
 
 ---
 
@@ -221,51 +204,11 @@ Handwritten digit recognition with GUI.
 
 | Category | Repositories |
 |----------|--------------|
-| **Dialers & voice** | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) · [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) · [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
-| **Email** | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) · [mailforge](https://github.com/mafzalkalwardev/mailforge) · [python-smtp-email-automation](https://github.com/mafzalkalwardev/python-smtp-email-automation) |
-| **Scraping & data** | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) · [safer-carrier-extractor](https://github.com/mafzalkalwardev/safer-carrier-extractor) · [Canadian-Website-Scraper](https://github.com/mafzalkalwardev/Canadian-Website-Scraper) |
-| **CRM & SaaS** | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) · [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) · [dat-stream-studio](https://github.com/mafzalkalwardev/dat-stream-studio) |
-| **Websites** | [indus-transports-dispatch-website](https://github.com/mafzalkalwardev/indus-transports-dispatch-website) · [kb-transport-llc-website](https://github.com/mafzalkalwardev/kb-transport-llc-website) |
-
----
-
----
-
-## 🔎 Find me on Google
-
-**Muhammad Afzal Kalwar** · **mafzalkalwardev** · Python developer · Automation engineer · Islamabad, Pakistan
-
-Portfolio website: **[mafzalkalwardev.github.io](https://mafzalkalwardev.github.io)**
-
-### Search keywords
-
-Muhammad Afzal Kalwar · mafzalkalwardev · Python developer Pakistan · automation engineer Islamabad · auto dialer Google Voice · bulk email verifier self-hosted · PyQt6 desktop application · Playwright web scraping · transport dispatch software · FT Solutions · Indus Transports LLC · open source CRM · Selenium automation · Go email verification · logistics software developer
-
-### Project index (SEO)
-
-- **[Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)** — Open source indus transport auto dialer by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier)** — Open source bulk email verifier by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)** — Open source google voice dispatch agent by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Fiverr Lead Extractor Crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)** — Open source fiverr lead extractor crm by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Callaudit X](https://github.com/mafzalkalwardev/CallAudit-X)** — Open source CallAudit X by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Mailforge](https://github.com/mafzalkalwardev/mailforge)** — Open source mailforge by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Python Auto Dialer Pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro)** — Open source python auto dialer pro by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Playwright Website Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)** — Open source playwright website scraper pro by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Dat Stream Studio](https://github.com/mafzalkalwardev/dat-stream-studio)** — Open source dat stream studio by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-- **[Mnist Cnn Digit Recognition](https://github.com/mafzalkalwardev/mnist-cnn-digit-recognition)** — Open source mnist cnn digit recognition by Muhammad Afzal Kalwar (`mafzalkalwardev`)
-
-### Profiles & links
-
-| Platform | URL |
-|----------|-----|
-| GitHub | https://github.com/mafzalkalwardev |
-| GitHub Portfolio Site | https://mafzalkalwardev.github.io |
-| LinkedIn | https://www.linkedin.com/in/muhammad-afzal-2670b527b/ |
-| Email | kalwarmuhammadafzal3@gmail.com |
-| Top project — Auto Dialer | https://github.com/mafzalkalwardev/indus-transport-auto-dialer |
-| Top project — Email Verifier | https://github.com/mafzalkalwardev/bulk-email-verifier |
-
-> Full-Stack Developer · Automation Engineer · Auto Dialer · Bulk Email Verifier · Playwright · PyQt6 · Go · Node.js · Transport Software · FT Solutions
+| **Dialers & voice** | [auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) · [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) · [GV dispatch](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
+| **Email** | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) · [mailforge](https://github.com/mafzalkalwardev/mailforge) · [smtp-automation](https://github.com/mafzalkalwardev/python-smtp-email-automation) |
+| **Scraping** | [playwright-scraper](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) · [safer-extractor](https://github.com/mafzalkalwardev/safer-carrier-extractor) · [Canadian scraper](https://github.com/mafzalkalwardev/Canadian-Website-Scraper) |
+| **CRM & SaaS** | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) · [fiverr-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) · [dat-stream](https://github.com/mafzalkalwardev/dat-stream-studio) |
+| **Hub** | [ft-solutions-hub](https://github.com/mafzalkalwardev/ft-solutions-hub) · [portfolio site](https://mafzalkalwardev.github.io) |
 
 ---
 
@@ -273,11 +216,16 @@ Muhammad Afzal Kalwar · mafzalkalwardev · Python developer Pakistan · automat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=github-dark-blue&hide_border=true" />
+<br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdf8&line=22c55e&point=0ea5e9&area=true&custom_title=Activity%20Overview" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -292,21 +240,15 @@ mindmap
       PyQt6 Dialers
       Google Voice AMD
       Predictive Pacing
-      Email Verification Go Node
+      Email Verification
     Full Stack
       TypeScript SaaS
       React Dashboards
       MongoDB SQLite
-      REST WebSockets
     AI Systems
       Whisper STT
       Groq Agents
       Call Analytics
-      TensorFlow CNN
-    Learning
-      C++ DSA
-      .NET ASP.NET
-      MASM x8086
 ```
 
 ---
@@ -330,21 +272,9 @@ mindmap
 ```python
 class MuhammadAfzalKalwar:
     role = "Automation Engineer & Full-Stack Developer"
-    org = "FT Solutions"
+    org = "FT Solutions · Islamabad, PK"
 
-    stack = [
-        "Python", "Go", "Node.js", "TypeScript",
-        "PyQt6", "Playwright", "Selenium", "Docker",
-        "MongoDB", "SQLite", "TensorFlow", "Whisper",
-    ]
-
-    builds = [
-        "auto dialers & telephony",
-        "email verification platforms",
-        "web scrapers & data pipelines",
-        "CRM & SaaS dashboards",
-        "logistics & dispatch software",
-    ]
+    stack = ["Python", "Go", "Node.js", "TypeScript", "PyQt6", "Playwright", "Whisper"]
 
     def mission(self):
         return "Ship reliable automation that saves time and scales operations."
@@ -352,16 +282,27 @@ class MuhammadAfzalKalwar:
 
 ---
 
-## 🔍 Keywords
-
-`Python` · `Go` · `Node.js` · `TypeScript` · `PyQt6` · `Playwright` · `Selenium` · `Docker`
-`MongoDB` · `SQLite` · `FastAPI` · `Express` · `TensorFlow` · `Whisper` · `Groq`
-`Auto Dialer` · `Google Voice` · `Email Verification` · `SMTP` · `Web Scraping`
-`CRM` · `SaaS` · `Logistics` · `FMCSA` · `Excel Automation` · `FT Solutions`
-
----
-
 <div align="center">
+
+### 🔍 Skills & Keywords
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Auto_Dialer-Google_Voice-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Email_Verification-SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Logistics-FT_Solutions-22C55E?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer typing at computer" />
+
+<br/>
 
 **Building systems that automate workflows and solve real-world business problems.**
 
@@ -370,3 +311,25 @@ class MuhammadAfzalKalwar:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=120&section=footer" />
 
 </div>
+
+---
+
+<details>
+<summary><strong>🔎 SEO & project index</strong> (click to expand)</summary>
+
+<br/>
+
+**Muhammad Afzal Kalwar** · **mafzalkalwardev** · Python developer · Automation engineer · Islamabad, Pakistan
+
+Portfolio: **[mafzalkalwardev.github.io](https://mafzalkalwardev.github.io)**
+
+| Project | Link |
+|---------|------|
+| Auto Dialer | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) |
+| Email Verifier | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) |
+| GV Dispatch | [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
+| Fiverr CRM | [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) |
+| CallAudit-X | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) |
+| MailForge | [mailforge](https://github.com/mafzalkalwardev/mailforge) |
+
+</details>
