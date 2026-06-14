@@ -1,80 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Automation%20%7C%20Open%20to%20Work&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:7c3aed&height=200&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=B.S.%20Computer%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Automation%20Engineer&descAlignY=62&descSize=16" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Available+for+Projects;Python+%7C+Go+%7C+Node.js+%7C+TypeScript;PyQt6+%7C+Playwright+%7C+Selenium+%7C+Docker;Web+Apps+%7C+Automation+%7C+AI+Integration;Remote+%7C+Freelance+%7C+Contract+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=880&lines=Open+to+freelance%2C+contract+%26+remote+work;Python+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Go;PyQt6+%7C+Playwright+%7C+Docker+%7C+FastAPI;Auto+dialers+%7C+CRM+%7C+email+tools+%7C+scrapers" />
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Hire%20Me-22C55E?style=for-the-badge&logo=handshake&logoColor=white)](#-work-with-me)
-[![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-tech-stack)
-[![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-0EA5E9?style=for-the-badge&logo=react&logoColor=white)](#-about-me)
-[![Remote](https://img.shields.io/badge/Remote-Worldwide-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](#-work-with-me)
+<img src="assets/profile.png" width="140" height="140" alt="Muhammad Afzal Kalwar" style="border-radius:50%;border:3px solid #2563eb;" />
+
+<br/><br/>
+
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Hire_Me-059669?style=for-the-badge&logo=handshake&logoColor=white)](#-work-with-me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
+[![Download CV](https://img.shields.io/badge/Download-CV_PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mafzalkalwardev.github.io/assets/Muhammad-Afzal-Kalwar-CV.pdf)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mafzalkalwardev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
-[![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mafzalkalwardev.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
+[![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
+[![Location](https://img.shields.io/badge/Islamabad-Pakistan_·_Remote-01411C?style=for-the-badge&logo=googlemaps&logoColor=white)](#-about-me)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Profile+views&color=2563eb&style=for-the-badge" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ## 👨‍💻 About Me
 
-I'm **Muhammad Afzal Kalwar**, a **Full-Stack Developer** and **Automation Engineer** based in **Islamabad, Pakistan**.
+I'm **Muhammad Afzal Kalwar** — a **Full-Stack Developer** and **Automation Engineer** from **Islamabad, Pakistan**, building production software for logistics, CRM, email, and AI-powered workflows.
 
-I help businesses and startups ship production software — web apps, APIs, desktop tools, automation pipelines, and AI-powered workflows. **40+ open source projects** on this profile show what I can build; I'm **open to freelance, contract, and full-time remote roles**.
+I graduated with a **B.S. in Computer Science from Air University, Islamabad**, and ship real products across **Python desktop apps**, **React/Node.js web platforms**, and **Playwright/Selenium automation** — with **40+ open source repositories** as proof of work.
 
-**What I build for clients**
+| Focus | What I deliver |
+|:------|:---------------|
+| **Web & SaaS** | React · Next.js · Node.js · FastAPI · MongoDB · auth & dashboards |
+| **Python & desktop** | PyQt6 Windows apps · scripts · Excel pipelines · internal tools |
+| **Automation** | Playwright · Selenium · FMCSA scrapers · CRM integrations |
+| **Communications** | Google Voice dialers · SMTP · bulk email verification |
+| **AI & voice** | Whisper · Groq · call analytics · ML prototypes |
 
-| Area | Examples |
-|------|----------|
-| 🌐 **Web & APIs** | React/TS dashboards · Node.js · FastAPI · MongoDB |
-| 🐍 **Python apps** | Desktop GUI (PyQt6) · scripts · data pipelines |
-| 🤖 **Automation** | Playwright · Selenium · scrapers · CRM integrations |
-| 📧 **Email systems** | SMTP tools · bulk verification · Go/Node backends |
-| 🧠 **AI integration** | Whisper · Groq · call analytics · ML prototypes |
-| 📊 **Data & Excel** | pandas · openpyxl · PDF extractors · reporting |
+---
 
-</td>
-<td width="38%" align="center" valign="middle">
+## 🎓 Education
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Developer typing at computer" />
+**Bachelor of Science in Computer Science** · **Air University, Islamabad** · *Graduated*
 
-<br/>
-
-<sub><em>Available for your next project ⌨️</em></sub>
-
-</td>
-</tr>
-</table>
+Algorithms · software engineering · databases · operating systems · computer networks · systems programming
 
 ---
 
 ## 💼 Work With Me
 
-**Looking for a developer?** I take on projects where I can deliver clean, maintainable code and real business value.
-
 | | |
 |---|---|
-| **Roles** | Full-Stack Developer · Python Developer · Automation Engineer · Backend Developer |
+| **Roles** | Full-Stack Developer · Python Engineer · Automation Engineer |
 | **Engagement** | Freelance · Contract · Part-time · Full-time remote |
-| **Location** | Islamabad, Pakistan — **open to remote worldwide** |
-| **Contact** | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/) |
+| **Location** | Islamabad, Pakistan — **remote worldwide** |
 | **Portfolio** | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
+| **Contact** | [Email](mailto:kalwarmuhammadafzal3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/) |
 
-**Typical projects:** SaaS dashboards · web scrapers · auto dialers · email verification · CRM tools · API integrations · Excel/data automation · AI-assisted apps
+**Typical projects:** auto dialers · email verification · web scrapers · SaaS dashboards · CRM tools · dispatch websites · API integrations · Excel/data automation
 
 ---
 
@@ -82,76 +71,80 @@ I help businesses and startups ship production software — web apps, APIs, desk
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📞 [Auto Dialer (PyQt6)](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)
+### 📞 [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)
 
-Production Windows desktop dialer.
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/indus-transport-auto-dialer.png" width="100%" alt="Auto Dialer screenshot" />
 
-* Google Voice · AMD · predictive pacing · CRM
-* Excel lists · multi-agent · WebSockets
+Production Windows dialer — Google Voice, AMD, predictive pacing, CRM, Excel lists.
 
-**Stack:** `Python` `PyQt6` `Whisper` `SQLite`
+`Python` `PyQt6` `Whisper` `SQLite`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📧 [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier)
 
-Self-hosted email verification platform.
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/bulk-email-verifier.png" width="100%" alt="Bulk Email Verifier screenshot" />
 
-* Syntax · MX · SMTP dialog · CSV export
-* Go + Node.js · Docker
+Self-hosted verification — syntax, MX, SMTP checks. Go + Node.js, Docker-ready.
 
-**Stack:** `Go` `Node.js` `Docker`
+`Go` `Node.js` `Docker`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)
-
-AI-powered calling automation.
-
-* Selenium · Groq · voicemail detection · TTS
-
-**Stack:** `Python` `FastAPI` `Selenium`
-
-</td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎯 [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)
 
-Scraping + CRM platform.
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/fiverr-lead-extractor-crm.png" width="100%" alt="Fiverr CRM screenshot" />
 
-* Playwright · MongoDB · Excel export
+Playwright extraction · MongoDB · BullMQ · Excel export · admin panel.
 
-**Stack:** `TypeScript` `Playwright` `MongoDB`
+`TypeScript` `Next.js` `Playwright`
+
+</td>
+<td width="50%">
+
+### 📊 [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X)
+
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/callaudit-x.png" width="100%" alt="CallAudit-X screenshot" />
+
+AI call auditing, transcription, scoring, and analytics SaaS platform.
+
+`TypeScript` `Next.js` `AI`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X)
+### 🤖 [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)
 
-AI call auditing & analytics SaaS.
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/google-voice-dispatch-agent.png" width="100%" alt="GV Dispatch Agent screenshot" />
 
-**Stack:** `TypeScript` `AI` `Analytics`
+Selenium automation · Groq scripts · voicemail detection · local TTS.
+
+`Python` `Selenium` `Groq`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🕷 [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)
 
-Multi-page scraper with GUI.
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/playwright-website-scraper-pro.png" width="100%" alt="Playwright Scraper screenshot" />
 
-**Stack:** `Playwright` `Node.js` `Express`
+Multi-page scraper with GUI, asset download, and export.
+
+`Playwright` `Node.js` `Express`
 
 </td>
 </tr>
 </table>
+
+👉 **[View all 38 projects on my portfolio →](https://mafzalkalwardev.github.io/projects.html)**
 
 ---
 
@@ -159,116 +152,96 @@ Multi-page scraper with GUI.
 
 <div align="center">
 
-*Technologies I use in client and open source projects*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,cs,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,cs,html,css" />
 
-**Frontend & Desktop**
+**Frontend & desktop**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,qt" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,qt" />
 
-<sub>React · PyQt6 · Tkinter · responsive HTML/CSS</sub>
+**Backend & data**
 
-**Backend & APIs**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,mongodb,postgresql,sqlite,redis" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,fastapi,flask,dotnet" />
+**Automation, AI & DevOps**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=playwright,selenium,docker,kubernetes,tensorflow,pytorch,git,github,linux,nginx,vite" />
 
-**Databases**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,redis" />
-
-**Automation & AI**
-
-<img src="https://skillicons.dev/icons?i=selenium,playwright,docker,tensorflow,pytorch,sklearn" />
-
-<sub>Whisper · Groq · web scraping · RPA</sub>
-
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nginx,vite" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST_API-Integration-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-Integration-2563eb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Web_Scraping-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Desktop_Apps-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-SMTP_Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Remote-Developer-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Desktop-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-SMTP_&_Verification-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
 ---
 
-## 📦 Open Source Portfolio
+## 📦 Repository Highlights
 
-| Category | Repositories |
-|----------|--------------|
-| **Python / Desktop** | [auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) · [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) |
-| **Web / Node** | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) · [playwright-scraper](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) |
-| **Automation / CRM** | [fiverr-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) · [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) |
-| **All projects** | [Browse 40+ repos →](https://github.com/mafzalkalwardev?tab=repositories) |
+| Category | Projects |
+|----------|----------|
+| **Dialers & voice** | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) · [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
+| **Email platforms** | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) · [mailforge](https://github.com/mafzalkalwardev/mailforge) |
+| **Web & CRM** | [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) · [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) |
+| **Scrapers** | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) · [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper) |
+| **All repos** | [**Browse 40+ repositories →**](https://github.com/mafzalkalwardev?tab=repositories) |
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&title_color=2563eb&icon_color=7c3aed&text_color=334155" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=default&hide_border=true&ring=2563eb&fire=7c3aed&currStreakLabel=334155" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdf8&line=22c55e&point=0ea5e9&area=true&custom_title=Activity%20Overview" />
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react&hide_border=true&bg_color=ffffff&color=2563eb&line=7c3aed&point=059669&area=true&custom_title=Contribution+Activity" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=334155" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 💼 Developer Profile
+## 💻 At a Glance
 
 ```python
 class MuhammadAfzalKalwar:
+    name = "Muhammad Afzal Kalwar"
     title = "Full-Stack Developer & Automation Engineer"
-    location = "Islamabad, Pakistan"
-    status = "Open to work — freelance, contract, remote"
+    education = "B.S. Computer Science — Air University, Islamabad"
+    location = "Islamabad, Pakistan · Remote worldwide"
+    status = "Open to freelance, contract, and remote roles"
 
-    skills = ["Python", "Go", "Node.js", "TypeScript", "React", "PyQt6", "Playwright", "Docker"]
+    stack = [
+        "Python", "TypeScript", "Go", "React", "Node.js",
+        "PyQt6", "Playwright", "Docker", "MongoDB", "FastAPI",
+    ]
 
-    def hire_me(self):
+    portfolio = "https://mafzalkalwardev.github.io"
+
+    def contact(self):
         return "mailto:kalwarmuhammadafzal3@gmail.com"
 ```
 
@@ -276,47 +249,28 @@ class MuhammadAfzalKalwar:
 
 <div align="center">
 
-### 🔍 Hire a Developer — Search Keywords
-
-<img src="https://img.shields.io/badge/Python_Developer-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation_Engineer-22C55E?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Freelance_Developer-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Remote_Developer-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-Selenium-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Pakistan-Islamabad-01411C?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer typing at computer" />
+**Let's build something useful — [email me](mailto:kalwarmuhammadafzal3@gmail.com) · [portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)**
 
 <br/>
 
-**Let's build something useful together — [get in touch](mailto:kalwarmuhammadafzal3@gmail.com)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:7c3aed&height=100&section=footer" />
 
 </div>
 
----
-
 <details>
-<summary><strong>🔎 Project index for search</strong></summary>
+<summary><strong>Search index</strong></summary>
 
 <br/>
 
-**Muhammad Afzal Kalwar** · **mafzalkalwardev** · Python developer · Full-stack developer · Automation engineer · Freelance developer · Remote developer · Islamabad Pakistan
+Muhammad Afzal Kalwar · mafzalkalwardev · Python developer · full-stack developer · automation engineer · freelance developer · remote developer · Islamabad Pakistan · Air University · auto dialer · email verification · Playwright · PyQt6
 
-| Project | Link |
-|---------|------|
+| Project | Repository |
+|---------|------------|
 | Auto Dialer | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) |
 | Email Verifier | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) |
-| GV Dispatch Agent | [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
+| GV Agent | [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
 | Fiverr CRM | [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) |
 | CallAudit-X | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) |
-| Playwright Scraper | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) |
+| Scraper Pro | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) |
 
 </details>
