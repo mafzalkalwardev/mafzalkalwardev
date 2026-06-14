@@ -300,3 +300,77 @@ Muhammad Afzal Kalwar · mafzalkalwardev · Python developer · full-stack devel
 | Scraper Pro | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) |
 
 </details>
+
+---
+
+## GitHub Packages
+
+Docker images for all projects are published to **GitHub Container Registry (GHCR)** on release.
+
+![GitHub packages](https://img.shields.io/badge/GitHub-Packages-24292f?style=for-the-badge&logo=github&logoColor=white)
+![GHCR](https://img.shields.io/badge/GHCR-Container_Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+| Repository | Pull |
+|------------|------|
+| [ft-solutions-hub](https://github.com/mafzalkalwardev/ft-solutions-hub) | `ghcr.io/mafzalkalwardev/ft-solutions-hub:latest` |
+| [professional-portfolio](https://github.com/mafzalkalwardev/professional-portfolio) | `ghcr.io/mafzalkalwardev/professional-portfolio:latest` |
+| [rdp](https://github.com/mafzalkalwardev/rdp) | `ghcr.io/mafzalkalwardev/rdp:latest` |
+| [dev](https://github.com/mafzalkalwardev/dev) | `ghcr.io/mafzalkalwardev/dev:latest` |
+| [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | `ghcr.io/mafzalkalwardev/fiverr-lead-extractor-crm:latest` |
+| [kb-transport-llc-website](https://github.com/mafzalkalwardev/kb-transport-llc-website) | `ghcr.io/mafzalkalwardev/kb-transport-llc-website:latest` |
+| [python-sms-automation](https://github.com/mafzalkalwardev/python-sms-automation) | `ghcr.io/mafzalkalwardev/python-sms-automation:latest` |
+| [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) | `ghcr.io/mafzalkalwardev/indus-transport-auto-dialer:latest` |
+| [quizmaster-online-testing-system](https://github.com/mafzalkalwardev/quizmaster-online-testing-system) | `ghcr.io/mafzalkalwardev/quizmaster-online-testing-system:latest` |
+| [python-smtp-email-automation](https://github.com/mafzalkalwardev/python-smtp-email-automation) | `ghcr.io/mafzalkalwardev/python-smtp-email-automation:latest` |
+| [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) | `ghcr.io/mafzalkalwardev/playwright-website-scraper-pro:latest` |
+| [email-verification-platform](https://github.com/mafzalkalwardev/email-verification-platform) | `ghcr.io/mafzalkalwardev/email-verification-platform:latest` |
+| [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) | `ghcr.io/mafzalkalwardev/python-auto-dialer-pro:latest` |
+| [safer-carrier-extractor](https://github.com/mafzalkalwardev/safer-carrier-extractor) | `ghcr.io/mafzalkalwardev/safer-carrier-extractor:latest` |
+| [dat-stream-studio](https://github.com/mafzalkalwardev/dat-stream-studio) | `ghcr.io/mafzalkalwardev/dat-stream-studio:latest` |
+| [quickdraw-test](https://github.com/mafzalkalwardev/quickdraw-test) | `ghcr.io/mafzalkalwardev/quickdraw-test:latest` |
+| [portfilio](https://github.com/mafzalkalwardev/portfilio) | `ghcr.io/mafzalkalwardev/portfilio:latest` |
+| [mnist-cnn-digit-recognition](https://github.com/mafzalkalwardev/mnist-cnn-digit-recognition) | `ghcr.io/mafzalkalwardev/mnist-cnn-digit-recognition:latest` |
+| [excel-call-queue-automator](https://github.com/mafzalkalwardev/excel-call-queue-automator) | `ghcr.io/mafzalkalwardev/excel-call-queue-automator:latest` |
+| [safer-web-scraper](https://github.com/mafzalkalwardev/safer-web-scraper) | `ghcr.io/mafzalkalwardev/safer-web-scraper:latest` |
+| [usa-truck-connect](https://github.com/mafzalkalwardev/usa-truck-connect) | `ghcr.io/mafzalkalwardev/usa-truck-connect:latest` |
+| [LearningDashboard](https://github.com/mafzalkalwardev/LearningDashboard) | `ghcr.io/mafzalkalwardev/LearningDashboard:latest` |
+| [one-stop-car-care-website](https://github.com/mafzalkalwardev/one-stop-car-care-website) | `ghcr.io/mafzalkalwardev/one-stop-car-care-website:latest` |
+| [clientreadyftsolutionsdombom](https://github.com/mafzalkalwardev/clientreadyftsolutionsdombom) | `ghcr.io/mafzalkalwardev/clientreadyftsolutionsdombom:latest` |
+| [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) | `ghcr.io/mafzalkalwardev/bulk-email-verifier:latest` |
+| [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) | `ghcr.io/mafzalkalwardev/google-voice-dispatch-agent:latest` |
+| [devops](https://github.com/mafzalkalwardev/devops) | `ghcr.io/mafzalkalwardev/devops:latest` |
+| [online-food-delivery](https://github.com/mafzalkalwardev/online-food-delivery) | `ghcr.io/mafzalkalwardev/online-food-delivery:latest` |
+| [multi-smtp-email-automation](https://github.com/mafzalkalwardev/multi-smtp-email-automation) | `ghcr.io/mafzalkalwardev/multi-smtp-email-automation:latest` |
+| [mouse-coordinate-tracker](https://github.com/mafzalkalwardev/mouse-coordinate-tracker) | `ghcr.io/mafzalkalwardev/mouse-coordinate-tracker:latest` |
+| [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper) | `ghcr.io/mafzalkalwardev/fmcsa-safer-scraper:latest` |
+| [excel-state-extractor-formula](https://github.com/mafzalkalwardev/excel-state-extractor-formula) | `ghcr.io/mafzalkalwardev/excel-state-extractor-formula:latest` |
+| [forward-email-automation](https://github.com/mafzalkalwardev/forward-email-automation) | `ghcr.io/mafzalkalwardev/forward-email-automation:latest` |
+| [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) | `ghcr.io/mafzalkalwardev/CallAudit-X:latest` |
+| [email-verifier-pro](https://github.com/mafzalkalwardev/email-verifier-pro) | `ghcr.io/mafzalkalwardev/email-verifier-pro:latest` |
+| [Canadian-Website-Scraper](https://github.com/mafzalkalwardev/Canadian-Website-Scraper) | `ghcr.io/mafzalkalwardev/Canadian-Website-Scraper:latest` |
+| [pdf-mc-number-extractor](https://github.com/mafzalkalwardev/pdf-mc-number-extractor) | `ghcr.io/mafzalkalwardev/pdf-mc-number-extractor:latest` |
+| [mywebpagetask](https://github.com/mafzalkalwardev/mywebpagetask) | `ghcr.io/mafzalkalwardev/mywebpagetask:latest` |
+| [devops2](https://github.com/mafzalkalwardev/devops2) | `ghcr.io/mafzalkalwardev/devops2:latest` |
+| [excel-mc-data-cleaner](https://github.com/mafzalkalwardev/excel-mc-data-cleaner) | `ghcr.io/mafzalkalwardev/excel-mc-data-cleaner:latest` |
+| [indus-transports-dispatch-website](https://github.com/mafzalkalwardev/indus-transports-dispatch-website) | `ghcr.io/mafzalkalwardev/indus-transports-dispatch-website:latest` |
+| [mailforge](https://github.com/mafzalkalwardev/mailforge) | `ghcr.io/mafzalkalwardev/mailforge:latest` |
+| [odysseus](https://github.com/mafzalkalwardev/odysseus) | `ghcr.io/mafzalkalwardev/odysseus:latest` |
+
+```bash
+docker pull ghcr.io/mafzalkalwardev/mailforge:latest
+```
+
+---
+
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+## Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Contribution snake](https://mafzalkalwardev.github.io/github-contribution-grid-snake.svg)
+
