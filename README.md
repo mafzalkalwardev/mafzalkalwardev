@@ -25,10 +25,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ## 👨‍💻 About Me
 
 I'm **Muhammad Afzal Kalwar** — a **Full-Stack Developer** and **Automation Engineer** from **Islamabad, Pakistan**, building production software for logistics, CRM, email, and AI-powered workflows.
@@ -42,19 +38,6 @@ I graduated with a **B.S. in Computer Science from Air University, Islamabad**, 
 | **Automation** | Playwright · Selenium · FMCSA scrapers · CRM integrations |
 | **Communications** | Google Voice dialers · SMTP · bulk email verification |
 | **AI & voice** | Whisper · Groq · call analytics · ML prototypes |
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Typing on computer" />
-
-<br/>
-
-<sub><em>Shipping automation, one commit at a time ⌨️</em></sub>
-
-</td>
-</tr>
-</table>
 
 ---
 
