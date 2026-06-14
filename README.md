@@ -273,17 +273,11 @@ class MuhammadAfzalKalwar:
 
 <div align="center">
 
+<h2><strong>⚡ Building systems that automate workflows and solve real-world business problems.</strong></h2>
+
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer typing at computer" />
 
-<br/><br/>
-
-**⚡ Building systems that automate workflows and solve real-world business problems.**
-
-<br/><br/>
-
 **Let's build something useful — [email me](mailto:kalwarmuhammadafzal3@gmail.com) · [portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)**
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:7c3aed&height=100&section=footer" />
 
