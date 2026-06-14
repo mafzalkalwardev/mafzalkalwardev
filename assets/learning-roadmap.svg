@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="920" height="520" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="918" height="118" rx="19" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.45"/>
+  <text x="460" y="52" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Current Learning Roadmap · 2026</text>
+  <text x="460" y="84" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" text-anchor="middle">Muhammad Afzal Kalwar  deepening production automation, AI, and scalable SaaS</text>
+
+  <!-- Row 1 -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="140" width="400" height="150" rx="16" fill="#111827" stroke="#334155" stroke-width="1.5"/>
+    <rect x="40" y="140" width="400" height="6" rx="3" fill="#2563eb"/>
+    <text x="60" y="178" fill="#60a5fa" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700">Q1 · PRODUCTION AUTOMATION</text>
+    <text x="60" y="206" fill="#f1f5f9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Dialers &amp; Voice Systems</text>
+    <text x="60" y="232" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">PyQt6 · Google Voice · AMD · predictive pacing</text>
+    <text x="60" y="254" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">WebSocket supervision · campaign reliability · CRM</text>
+    <rect x="60" y="266" width="92" height="22" rx="6" fill="#1e3a8a"/><text x="72" y="281" fill="#bfdbfe" font-size="11" font-family="Segoe UI, Inter, Arial, sans-serif">In progress</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="480" y="140" width="400" height="150" rx="16" fill="#111827" stroke="#334155" stroke-width="1.5"/>
+    <rect x="480" y="140" width="400" height="6" rx="3" fill="#7c3aed"/>
+    <text x="500" y="178" fill="#c4b5fd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700">Q2 · FULL-STACK SAAS</text>
+    <text x="500" y="206" fill="#f1f5f9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">React / Next.js Platforms</text>
+    <text x="500" y="232" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">TypeScript · Node.js · MongoDB · auth &amp; billing</text>
+    <text x="500" y="254" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">Dashboard UX · API design · multi-tenant SaaS</text>
+    <rect x="500" y="266" width="78" height="22" rx="6" fill="#4c1d95"/><text x="512" y="281" fill="#ddd6fe" font-size="11" font-family="Segoe UI, Inter, Arial, sans-serif">Active</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="320" width="400" height="150" rx="16" fill="#111827" stroke="#334155" stroke-width="1.5"/>
+    <rect x="40" y="320" width="400" height="6" rx="3" fill="#059669"/>
+    <text x="60" y="358" fill="#6ee7b7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700">Q3 · AI &amp; VOICE TECH</text>
+    <text x="60" y="386" fill="#f1f5f9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">LLM + Speech Pipelines</text>
+    <text x="60" y="412" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">Whisper STT · Groq agents · call auditing</text>
+    <text x="60" y="434" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">CallAudit-X · analytics · human-in-the-loop QA</text>
+    <rect x="60" y="446" width="72" height="22" rx="6" fill="#064e3b"/><text x="72" y="461" fill="#a7f3d0" font-size="11" font-family="Segoe UI, Inter, Arial, sans-serif">Next up</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="480" y="320" width="400" height="150" rx="16" fill="#111827" stroke="#334155" stroke-width="1.5"/>
+    <rect x="480" y="320" width="400" height="6" rx="3" fill="#d97706"/>
+    <text x="500" y="358" fill="#fcd34d" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700">Q4 · DEVOPS &amp; SCALE</text>
+    <text x="500" y="386" fill="#f1f5f9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Ship &amp; Operate at Scale</text>
+    <text x="500" y="412" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">Docker · CI/CD · monitoring · load testing</text>
+    <text x="500" y="434" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">Kubernetes basics · observability · runbooks</text>
+    <rect x="500" y="446" width="68" height="22" rx="6" fill="#78350f"/><text x="512" y="461" fill="#fde68a" font-size="11" font-family="Segoe UI, Inter, Arial, sans-serif">Planned</text>
+  </g>
+
+  <!-- Connectors -->
+  <path d="M240 290 L240 310 L460 310 L460 320" stroke="#475569" stroke-width="2" stroke-dasharray="6 6" fill="none"/>
+  <path d="M680 290 L680 310 L460 310" stroke="#475569" stroke-width="2" stroke-dasharray="6 6" fill="none"/>
+</svg>

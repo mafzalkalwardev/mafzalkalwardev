@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=880&lines=Open+to+freelance%2C+contract+%26+remote+work;Python+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Go;PyQt6+%7C+Playwright+%7C+Docker+%7C+FastAPI;Auto+dialers+%7C+CRM+%7C+email+tools+%7C+scrapers" />
 
-<br/>
-
-<img src="assets/profile.png" width="140" height="140" alt="Muhammad Afzal Kalwar" style="border-radius:50%;border:3px solid #2563eb;" />
-
 <br/><br/>
 
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Hire_Me-059669?style=for-the-badge&logo=handshake&logoColor=white)](#-work-with-me)
@@ -29,6 +25,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ## 👨‍💻 About Me
 
 I'm **Muhammad Afzal Kalwar** — a **Full-Stack Developer** and **Automation Engineer** from **Islamabad, Pakistan**, building production software for logistics, CRM, email, and AI-powered workflows.
@@ -43,13 +43,37 @@ I graduated with a **B.S. in Computer Science from Air University, Islamabad**, 
 | **Communications** | Google Voice dialers · SMTP · bulk email verification |
 | **AI & voice** | Whisper · Groq · call analytics · ML prototypes |
 
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Typing on computer" />
+
+<br/>
+
+<sub><em>Shipping automation, one commit at a time ⌨️</em></sub>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎓 Education
 
+<table>
+<tr>
+<td width="72" valign="top">
+<img src="assets/air-university.png" width="64" height="64" alt="Air University Islamabad" />
+</td>
+<td valign="top">
+
 **Bachelor of Science in Computer Science** · **Air University, Islamabad** · *Graduated*
 
 Algorithms · software engineering · databases · operating systems · computer networks · systems programming
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,22 +95,22 @@ Algorithms · software engineering · databases · operating systems · computer
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📞 [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/indus-transport-auto-dialer.png" width="100%" alt="Auto Dialer screenshot" />
+<img src="assets/projects/indus-transport-auto-dialer.png" width="100%" alt="Auto Dialer screenshot" />
 
 Production Windows dialer — Google Voice, AMD, predictive pacing, CRM, Excel lists.
 
 `Python` `PyQt6` `Whisper` `SQLite`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📧 [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/bulk-email-verifier.png" width="100%" alt="Bulk Email Verifier screenshot" />
+<img src="assets/projects/bulk-email-verifier.png" width="100%" alt="Bulk Email Verifier screenshot" />
 
 Self-hosted verification — syntax, MX, SMTP checks. Go + Node.js, Docker-ready.
 
@@ -95,22 +119,22 @@ Self-hosted verification — syntax, MX, SMTP checks. Go + Node.js, Docker-ready
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/fiverr-lead-extractor-crm.png" width="100%" alt="Fiverr CRM screenshot" />
+<img src="assets/projects/fiverr-lead-extractor-crm.png" width="100%" alt="Fiverr CRM screenshot" />
 
 Playwright extraction · MongoDB · BullMQ · Excel export · admin panel.
 
 `TypeScript` `Next.js` `Playwright`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/callaudit-x.png" width="100%" alt="CallAudit-X screenshot" />
+<img src="assets/projects/callaudit-x.png" width="100%" alt="CallAudit-X screenshot" />
 
 AI call auditing, transcription, scoring, and analytics SaaS platform.
 
@@ -119,22 +143,22 @@ AI call auditing, transcription, scoring, and analytics SaaS platform.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/google-voice-dispatch-agent.png" width="100%" alt="GV Dispatch Agent screenshot" />
+<img src="assets/projects/google-voice-dispatch-agent.png" width="100%" alt="GV Dispatch Agent screenshot" />
 
 Selenium automation · Groq scripts · voicemail detection · local TTS.
 
 `Python` `Selenium` `Groq`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🕷 [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev.github.io/main/assets/projects/playwright-website-scraper-pro.png" width="100%" alt="Playwright Scraper screenshot" />
+<img src="assets/projects/playwright-website-scraper-pro.png" width="100%" alt="Playwright Scraper screenshot" />
 
 Multi-page scraper with GUI, asset download, and export.
 
@@ -145,6 +169,23 @@ Multi-page scraper with GUI, asset download, and export.
 </table>
 
 👉 **[View all 38 projects on my portfolio →](https://mafzalkalwardev.github.io/projects.html)**
+
+---
+
+## 🗺 Current Learning Roadmap
+
+<div align="center">
+
+<img src="assets/learning-roadmap.svg" width="100%" alt="Current learning roadmap 2026 — production automation, full-stack SaaS, AI voice tech, and DevOps" />
+
+</div>
+
+| Quarter | Focus | Topics |
+|:--------|:------|:-------|
+| **Q1** | Production automation | PyQt6 dialers · Google Voice · AMD · campaign reliability |
+| **Q2** | Full-stack SaaS | TypeScript · React/Next.js · MongoDB · auth & billing |
+| **Q3** | AI & voice tech | Whisper · Groq agents · CallAudit-X · call analytics |
+| **Q4** | DevOps & scale | Docker · CI/CD · monitoring · load testing · Kubernetes |
 
 ---
 
@@ -248,6 +289,14 @@ class MuhammadAfzalKalwar:
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer typing at computer" />
+
+<br/><br/>
+
+**⚡ Building systems that automate workflows and solve real-world business problems.**
+
+<br/><br/>
 
 **Let's build something useful — [email me](mailto:kalwarmuhammadafzal3@gmail.com) · [portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)**
 
