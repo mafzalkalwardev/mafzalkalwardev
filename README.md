@@ -145,6 +145,8 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 ---
 
+---
+
 ## GitHub Achievements & Highlights
 
 <div align="center">
@@ -155,13 +157,16 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="72" alt="Pull Shark bronze" />
 </a>
 <a href="https://github.com/mafzalkalwardev?tab=achievements" title="Pair Extraordinaire">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="72" alt="Pair Extraordinaire bronze" />
 </a>
 <a href="https://github.com/mafzalkalwardev?tab=achievements" title="YOLO">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" />
 </a>
 <a href="https://github.com/mafzalkalwardev?tab=achievements" title="Quickdraw">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" />
+</a>
+<a href="https://github.com/mafzalkalwardev/indus-transport-auto-dialer/discussions" title="Galaxy Brain">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" />
 </a>
 
 <br/>
