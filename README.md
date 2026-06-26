@@ -143,6 +143,47 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 ---
 
+---
+
+## GitHub Achievements & Highlights
+
+<div align="center">
+
+### Achievements
+
+<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Pull Shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="72" alt="Pull Shark bronze" />
+</a>
+<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Pair Extraordinaire">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" />
+</a>
+<a href="https://github.com/mafzalkalwardev?tab=achievements" title="YOLO">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" />
+</a>
+<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Quickdraw">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" />
+</a>
+
+<br/>
+
+[![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-Bronze-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?achievement=pull-shark&tab=achievements)
+[![Open Source](https://img.shields.io/badge/Open_Source-51_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
+
+### Highlights
+
+| Highlight | Status |
+|:--|:--|
+| **GitHub Pro** | Active |
+| **Developer Program Member** | Active |
+| **GitHub Campus Expert** | [Apply here](https://education.github.com/experts) if you are a student |
+| **Public Sponsor** | [Sponsor any maintainer publicly ($1+)](https://github.com/sponsors) for the badge |
+| **Galaxy Brain** | Answer discussions — see [Auto Dialer Q&A](https://github.com/mafzalkalwardev/indus-transport-auto-dialer/discussions) |
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
