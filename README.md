@@ -35,6 +35,25 @@ I build practical software for business workflows: CRM dashboards, auto dialers,
 
 ---
 
+## Education
+
+<table>
+<tr>
+<td width="72" valign="top">
+<img src="assets/air-university.png" width="64" height="64" alt="Air University Islamabad" />
+</td>
+<td valign="top">
+
+**Bachelor of Science in Computer Science** - **Air University, Islamabad** - *Graduated*
+
+Algorithms, software engineering, databases, operating systems, computer networks, and systems programming.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Work With Me
 
 | | |
@@ -111,16 +130,16 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&title_color=2563eb&icon_color=059669&text_color=334155" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=default&hide_border=true&ring=2563eb&fire=059669&currStreakLabel=334155" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=60a5fa&icon_color=059669&text_color=c9d1d9" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=059669&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
 <br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=github-compact&hide_border=true&bg_color=ffffff&color=2563eb&line=059669&point=0f172a&area=true&custom_title=Contribution+Activity" alt="Contribution activity" />
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=059669&area=true&custom_title=Contribution+Activity" alt="Contribution activity" />
 
 <br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=334155" alt="Top languages" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
@@ -151,7 +170,9 @@ class MuhammadAfzalKalwar:
 
 <div align="center">
 
-### Building useful systems for real business workflows.
+<h2><strong>Building systems that automate workflows and solve real-world business problems.</strong></h2>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer typing at computer" />
 
 [Email me](mailto:kalwarmuhammadafzal3@gmail.com) - [Portfolio](https://mafzalkalwardev.github.io) - [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
 
