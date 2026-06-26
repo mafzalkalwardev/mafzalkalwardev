@@ -263,3 +263,43 @@ class MuhammadAfzalKalwar:
 Muhammad Afzal Kalwar, mafzalkalwardev, Python developer, full-stack developer, automation engineer, freelance developer, remote developer, Islamabad Pakistan, Air University, auto dialer, email verification, Playwright, PyQt6, React, Node.js, FastAPI, CRM tools, web scraping, Google Voice automation, AI call auditing, SaaS dashboards, dispatch software, lead generation CRM.
 
 </details>
+
+---
+
+## 🔎 Find me on Google
+
+**Muhammad Afzal Kalwar** · **mafzalkalwardev** · Python developer · Automation engineer · Islamabad, Pakistan
+
+Portfolio website: **[mafzalkalwardev.github.io](https://mafzalkalwardev.github.io)**
+
+### Search keywords
+
+Muhammad Afzal Kalwar · mafzalkalwardev · Python developer Pakistan · automation engineer Islamabad · auto dialer Google Voice · bulk email verifier self-hosted · PyQt6 desktop application · Playwright web scraping · transport dispatch software · FT Solutions · Indus Transports LLC · open source CRM · Selenium automation · Go email verification · logistics software developer
+
+### Project index (SEO)
+
+- **[Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer)** — Open source indus transport auto dialer by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier)** — Open source bulk email verifier by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent)** — Open source google voice dispatch agent by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Fiverr Lead Extractor Crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)** — Open source fiverr lead extractor crm by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Callaudit X](https://github.com/mafzalkalwardev/CallAudit-X)** — Open source CallAudit X by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Mailforge](https://github.com/mafzalkalwardev/mailforge)** — Open source mailforge by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Python Auto Dialer Pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro)** — Open source python auto dialer pro by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Playwright Website Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)** — Open source playwright website scraper pro by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Dat Stream Studio](https://github.com/mafzalkalwardev/dat-stream-studio)** — Open source dat stream studio by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Mnist Cnn Digit Recognition](https://github.com/mafzalkalwardev/mnist-cnn-digit-recognition)** — Open source mnist cnn digit recognition by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+
+### Profiles & links
+
+| Platform | URL |
+|----------|-----|
+| GitHub | https://github.com/mafzalkalwardev |
+| GitHub Portfolio Site | https://mafzalkalwardev.github.io |
+| LinkedIn | https://www.linkedin.com/in/muhammad-afzal-2670b527b/ |
+| Email | kalwarmuhammadafzal3@gmail.com |
+| Top project — Auto Dialer | https://github.com/mafzalkalwardev/indus-transport-auto-dialer |
+| Top project — Email Verifier | https://github.com/mafzalkalwardev/bulk-email-verifier |
+
+> Full-Stack Developer · Automation Engineer · Auto Dialer · Bulk Email Verifier · Playwright · PyQt6 · Go · Node.js · Transport Software · FT Solutions
+
+---
