@@ -70,16 +70,33 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 ## Featured Projects
 
-| Project | What it does | Stack |
+| Project | Best description | SEO tags |
 |:--|:--|:--|
-| [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) | Production Windows dialer with Google Voice, pacing, CRM, Excel lists, and call workflow support. | Python, PyQt6, SQLite, Whisper |
-| [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) | Self-hosted email verification with syntax, MX, SMTP checks, and Docker-ready deployment. | Go, Node.js, Docker |
-| [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | Lead extraction and CRM workflow with Playwright, MongoDB, BullMQ, exports, and admin UI. | TypeScript, Next.js, Playwright |
-| [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) | AI call auditing platform for transcription, scoring, and analytics. | TypeScript, Next.js, AI |
-| [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) | Dispatch automation with Selenium, Groq scripting, voicemail detection, and local TTS. | Python, Selenium, Groq |
-| [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) | Multi-page scraper with GUI support, asset downloading, and export workflows. | Playwright, Node.js, Express |
+| [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) | Production Windows auto dialer for dispatch teams with Google Voice browser automation, Excel campaign import, resume-safe calling, local logs, and PyQt6 desktop UI. | `python` `pyqt6` `auto-dialer` `google-voice` `telephony` `dispatch-software` |
+| [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) | Self-hosted bulk email verification platform with syntax, MX, SMTP mailbox checks, Node.js UI, Go verification services, and Docker deployment. | `email-verification` `smtp` `go` `nodejs` `docker` `self-hosted` |
+| [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | Full-stack lead extraction CRM for Fiverr review research with Playwright workers, MongoDB, BullMQ queues, Excel export, admin dashboard, and Electron desktop packaging. | `crm` `lead-generation` `playwright` `typescript` `mongodb` `electron` |
+| [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) | AI call auditing SaaS for transcription, quality scoring, review workflows, analytics dashboards, and call-center performance insights. | `ai` `call-analytics` `saas` `transcription` `nextjs` `typescript` |
+| [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) | Selenium-based Google Voice dispatch assistant with Groq-generated call scripts, local TTS, voicemail handling, and low-cost outbound workflow automation. | `python` `selenium` `google-voice` `voice-automation` `groq` `dispatch` |
+| [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) | Advanced website scraping and cloning toolkit with Playwright automation, desktop GUI, Express backend, screenshots, asset downloading, and multi-page export. | `playwright` `web-scraping` `nodejs` `express` `desktop-gui` `automation` |
 
 [View more projects on my portfolio](https://mafzalkalwardev.github.io/projects.html)
+
+---
+
+## Current Learning Roadmap
+
+<div align="center">
+
+<img src="assets/learning-roadmap.svg" width="100%" alt="Current learning roadmap for production automation, full-stack SaaS, AI voice systems, and DevOps" />
+
+</div>
+
+| Quarter | Focus | What I am strengthening |
+|:--|:--|:--|
+| Q1 | Production automation | PyQt6 dialers, Google Voice workflows, campaign reliability, CRM operations |
+| Q2 | Full-stack SaaS | TypeScript, React/Next.js, Node.js APIs, MongoDB, authentication, billing |
+| Q3 | AI and voice systems | Whisper, Groq agents, call auditing, analytics, human review workflows |
+| Q4 | DevOps and scale | Docker, CI/CD, monitoring, load testing, Kubernetes fundamentals |
 
 ---
 
@@ -145,6 +162,20 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## At a Glance
 
 ```python
@@ -183,6 +214,6 @@ class MuhammadAfzalKalwar:
 <details>
 <summary><strong>Search keywords</strong></summary>
 
-Muhammad Afzal Kalwar, mafzalkalwardev, Python developer, full-stack developer, automation engineer, freelance developer, remote developer, Islamabad Pakistan, Air University, auto dialer, email verification, Playwright, PyQt6, React, Node.js, FastAPI, CRM tools, web scraping.
+Muhammad Afzal Kalwar, mafzalkalwardev, Python developer, full-stack developer, automation engineer, freelance developer, remote developer, Islamabad Pakistan, Air University, auto dialer, email verification, Playwright, PyQt6, React, Node.js, FastAPI, CRM tools, web scraping, Google Voice automation, AI call auditing, SaaS dashboards, dispatch software, lead generation CRM.
 
 </details>
