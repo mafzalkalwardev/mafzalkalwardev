@@ -131,14 +131,32 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 ---
 
+## Recently Added (2026)
+
+| Project | Stack | Link |
+|:--|:--|:--|
+| CallAuditX Nest + React | NestJS, React, Prisma, JWT | [callauditx-nest-react](https://github.com/mafzalkalwardev/callauditx-nest-react) |
+| Logistics Pro Website | HTML, CSS, responsive | [logistics-pro-website](https://github.com/mafzalkalwardev/logistics-pro-website) |
+| Google Workspace Bulk Provisioning | Python, Admin SDK | [google-workspace-bulk-user-provisioning](https://github.com/mafzalkalwardev/google-workspace-bulk-user-provisioning) |
+| Toolzology Chrome Extension | Manifest V3, JavaScript | [toolzology-chrome-extension-v2](https://github.com/mafzalkalwardev/toolzology-chrome-extension-v2) |
+| Fake News Detector | Python, ML, NLP | [fake-news-detector](https://github.com/mafzalkalwardev/fake-news-detector) |
+| QuizMaster Backend | Node.js, Express, MongoDB | [quizmaster-backend-complete](https://github.com/mafzalkalwardev/quizmaster-backend-complete) |
+| Apex Transit LLC Website | HTML, CSS, logistics | [apex-transit-llc-website](https://github.com/mafzalkalwardev/apex-transit-llc-website) |
+| Wooly Wool Storefront | E-commerce, web | [wooly-wool-storefront](https://github.com/mafzalkalwardev/wooly-wool-storefront) |
+
+[Full project index on FT Solutions Hub](https://github.com/mafzalkalwardev/ft-solutions-hub)
+
+---
+
 ## Repository Highlights
 
 | Category | Repositories |
 |:--|:--|
-| Dialers and voice | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer), [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) |
-| Email platforms | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [mailforge](https://github.com/mafzalkalwardev/mailforge), [email-verifier-pro](https://github.com/mafzalkalwardev/email-verifier-pro) |
-| Web and CRM | [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm), [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [sms-marketing-crm](https://github.com/mafzalkalwardev/sms-marketing-crm) |
-| Scrapers and data | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro), [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper), [excel-mc-data-cleaner](https://github.com/mafzalkalwardev/excel-mc-data-cleaner) |
+| Dialers and voice | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer), [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [google-voice-call-state-detector](https://github.com/mafzalkalwardev/google-voice-call-state-detector), [vicidial-hyperv-lab](https://github.com/mafzalkalwardev/vicidial-hyperv-lab) |
+| Email platforms | [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [mailforge](https://github.com/mafzalkalwardev/mailforge), [google-workspace-bulk-user-provisioning](https://github.com/mafzalkalwardev/google-workspace-bulk-user-provisioning) |
+| Web, CRM, and SaaS | [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm), [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [callauditx-nest-react](https://github.com/mafzalkalwardev/callauditx-nest-react), [restaurant-management-react](https://github.com/mafzalkalwardev/restaurant-management-react) |
+| Logistics websites | [logistics-pro-website](https://github.com/mafzalkalwardev/logistics-pro-website), [kb-transport-llc-website](https://github.com/mafzalkalwardev/kb-transport-llc-website), [apex-transit-llc-website](https://github.com/mafzalkalwardev/apex-transit-llc-website), [mighty-trucking](https://github.com/mafzalkalwardev/mighty-trucking) |
+| Scrapers and data | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro), [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper), [excel-mc-data-cleaner](https://github.com/mafzalkalwardev/excel-mc-data-cleaner), [pdf-mc-number-extractor](https://github.com/mafzalkalwardev/pdf-mc-number-extractor) |
 | All repositories | [Browse GitHub repositories](https://github.com/mafzalkalwardev?tab=repositories) |
 
 ---
@@ -173,7 +191,7 @@ Common project types: auto dialers, CRM tools, dispatch websites, email verifica
 
 [![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
 [![Pull Shark](https://img.shields.io/badge/Pull_Shark-Bronze-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?achievement=pull-shark&tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-51_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open_Source-73_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
 
 ### Highlights
 
@@ -288,6 +306,11 @@ Muhammad Afzal Kalwar · mafzalkalwardev · Python developer Pakistan · automat
 - **[Playwright Website Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro)** — Open source playwright website scraper pro by Muhammad Afzal Kalwar (`mafzalkalwardev`)
 - **[Dat Stream Studio](https://github.com/mafzalkalwardev/dat-stream-studio)** — Open source dat stream studio by Muhammad Afzal Kalwar (`mafzalkalwardev`)
 - **[Mnist Cnn Digit Recognition](https://github.com/mafzalkalwardev/mnist-cnn-digit-recognition)** — Open source mnist cnn digit recognition by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Logistics Pro Website](https://github.com/mafzalkalwardev/logistics-pro-website)** — Open source logistics pro website by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Callauditx Nest React](https://github.com/mafzalkalwardev/callauditx-nest-react)** — Open source CallAuditX NestJS React full-stack by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Fake News Detector](https://github.com/mafzalkalwardev/fake-news-detector)** — Open source fake news detector by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Wooly Wool Storefront](https://github.com/mafzalkalwardev/wooly-wool-storefront)** — Open source wooly wool e-commerce storefront by Muhammad Afzal Kalwar (`mafzalkalwardev`)
+- **[Google Workspace Bulk User Provisioning](https://github.com/mafzalkalwardev/google-workspace-bulk-user-provisioning)** — Open source Google Workspace automation by Muhammad Afzal Kalwar (`mafzalkalwardev`)
 
 ### Profiles & links
 
