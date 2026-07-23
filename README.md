@@ -174,8 +174,8 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=60a5fa&icon_color=059669&text_color=c9d1d9" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mafzalkalwardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=059669&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=60a5fa&icon_color=059669&text_color=c9d1d9" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mafzalkalwardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=059669&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
 <br/>
 
@@ -183,7 +183,7 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 <br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Top languages" />
+<img width="52%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
