@@ -179,7 +179,7 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 <br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=059669&area=true&custom_title=Contribution+Activity" alt="Contribution activity" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mafzalkalwardev&theme=github_dark" alt="GitHub contribution summary" />
 
 <br/>
 
