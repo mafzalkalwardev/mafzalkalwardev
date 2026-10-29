@@ -8,7 +8,7 @@
 
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Hire_Me-059669?style=for-the-badge&logo=handshake&logoColor=white)](#work-with-me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafzalkalwardev/)
 [![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923079670503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923079670503)
 
@@ -44,7 +44,7 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
 | Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
-| LinkedIn | [muhammad-afzal-2670b527b](https://www.linkedin.com/in/muhammad-afzal-2670b527b/) |
+| LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
 | Core stack | Python, JavaScript/TypeScript, Go, React, Node.js, FastAPI, Playwright, Selenium, Docker |
 | Specialty | Business automation — dialers, scrapers, email ops, CRM, AI call workflows |
 
@@ -73,7 +73,7 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
 | Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
-| LinkedIn | [Connect](https://www.linkedin.com/in/muhammad-afzal-2670b527b/) |
+| LinkedIn | [Connect](https://www.linkedin.com/in/mafzalkalwardev/) |
 
 **Best project fit:** CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, admin dashboards, API integrations, Excel/data automation, and AI workflow systems.
 
@@ -105,7 +105,7 @@ Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer f
 Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
 
 ### How can I hire Muhammad Afzal Kalwar?
-Email [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com), WhatsApp [+923079670503](https://wa.me/923079670503), LinkedIn [profile](https://www.linkedin.com/in/muhammad-afzal-2670b527b/), or browse [his portfolio](https://mafzalkalwardev.github.io).
+Email [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com), WhatsApp [+923079670503](https://wa.me/923079670503), LinkedIn [profile](https://www.linkedin.com/in/mafzalkalwardev/), or browse [his portfolio](https://mafzalkalwardev.github.io).
 
 ### What are his best open-source / public projects?
 Start with [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [mailforge](https://github.com/mafzalkalwardev/mailforge), [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [ipecs-auto-dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer), and [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro).
@@ -229,7 +229,7 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 **Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Full-Stack Developer & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
 
-**Hire / contact:** [Email](mailto:kalwarmuhammadafzal3@gmail.com) · [WhatsApp](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
+**Hire / contact:** GitHub [@mafzalkalwardev](https://github.com/mafzalkalwardev) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [Email](mailto:kalwarmuhammadafzal3@gmail.com)
 
 ### Who is this for?
 Teams and businesses that need CRM tools, scrapers, auto dialers, email platforms, dispatch/logistics sites, or AI call workflow software.
