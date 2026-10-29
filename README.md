@@ -209,26 +209,6 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for mafzalkalwardev" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for mafzalkalwardev" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mafzalkalwardev&theme=github_dark" alt="GitHub statistics card" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=mafzalkalwardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=059669&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak stats" />
-
-<br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -242,28 +222,3 @@ Algorithms, software engineering, databases, operating systems, computer network
 </div>
 
 ---
-
-## Trophy Cards
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies for mafzalkalwardev" />
-</div>
-
----
-
-<div align="center">
-
-**Building CRM, scraping, dispatch, email, dialer, and AI workflow tools for real businesses.**
-
-[Email](mailto:kalwarmuhammadafzal3@gmail.com) · [WhatsApp +923079670503](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:059669&height=100&section=footer" alt="Footer wave" />
-
-</div>
-
-<details>
-<summary><strong>Search keywords (SEO / GEO)</strong></summary>
-
-Muhammad Afzal Kalwar, mafzalkalwardev, Python developer Islamabad, full-stack developer Pakistan, automation engineer freelance, remote developer, CRM developer, web scraping expert, Playwright Selenium, Google Voice auto dialer, iPECS dialer, email verification platform, MailForge, CallAudit-X, dispatch software, logistics website developer, AI voice agent, FastAPI React Node.js Go, hire Python automation engineer, INDUS Web Agency.
-
-</details>
