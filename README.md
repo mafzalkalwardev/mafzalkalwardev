@@ -262,4 +262,6 @@ Teams and businesses that need CRM tools, scrapers, auto dialers, email platform
 Muhammad Afzal Kalwar, mafzalkalwardev, full-stack developer, Python automation engineer, Islamabad Pakistan, freelance remote developer, CRM scraping dialer email AI tools, full-stack, auto-dialer, playwright, ai, pyqt6, open-source, smtp, developer-profile, outbound-calling, automation, telephony, email-automation
 
 </details>
+## Services one-pager
 
+[Download PDF](https://mafzalkalwardev.github.io/assets/Muhammad-Afzal-Kalwar-Services.pdf) · [Hire Me page](https://mafzalkalwardev.github.io/#hire-me)
