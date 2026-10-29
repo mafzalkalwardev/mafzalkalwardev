@@ -265,3 +265,11 @@ Muhammad Afzal Kalwar, mafzalkalwardev, full-stack developer, Python automation 
 ## Services one-pager
 
 [Download PDF](https://mafzalkalwardev.github.io/assets/Muhammad-Afzal-Kalwar-Services.pdf) · [Hire Me page](https://mafzalkalwardev.github.io/#hire-me)
+
+## Services (inbound SEO pages)
+
+- [Services hub](https://mafzalkalwardev.github.io/services.html)
+- [Auto dialers](https://mafzalkalwardev.github.io/services-dialers.html)
+- [Scrapers / FMCSA](https://mafzalkalwardev.github.io/services-scrapers.html)
+- [Email & CRM](https://mafzalkalwardev.github.io/services-email-crm.html)
+
