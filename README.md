@@ -73,7 +73,7 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
 | Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
-| LinkedIn | [Connect](https://www.linkedin.com/in/mafzalkalwardev/) |
+| LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
 
 **Best project fit:** CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, admin dashboards, API integrations, Excel/data automation, and AI workflow systems.
 
@@ -93,6 +93,23 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | Full-stack lead CRM with Playwright workers, queues, Excel export, and Electron packaging. | `crm` `lead-generation` `typescript` |
 
 [View more projects](https://mafzalkalwardev.github.io/projects.html) · [Live demos](https://mafzalkalwardev.github.io/demos.html) · [All repositories](https://github.com/mafzalkalwardev?tab=repositories)
+
+---
+
+## Case Studies
+
+Problem → stack → result write-ups on flagship repos:
+
+| Project | Case study |
+|:--|:--|
+| Google Voice Dispatch Agent | [CASE_STUDY.md](https://github.com/mafzalkalwardev/google-voice-dispatch-agent/blob/main/CASE_STUDY.md) |
+| Fiverr Lead Extractor CRM | [CASE_STUDY.md](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm/blob/main/CASE_STUDY.md) |
+| SAFER Web Scraper | [CASE_STUDY.md](https://github.com/mafzalkalwardev/safer-web-scraper/blob/main/CASE_STUDY.md) |
+| Email Verification Platform | [CASE_STUDY.md](https://github.com/mafzalkalwardev/email-verification-platform/blob/main/CASE_STUDY.md) |
+| Playwright Website Scraper Pro | [CASE_STUDY.md](https://github.com/mafzalkalwardev/playwright-website-scraper-pro/blob/main/CASE_STUDY.md) |
+| Python Auto Dialer Pro | [CASE_STUDY.md](https://github.com/mafzalkalwardev/python-auto-dialer-pro/blob/main/CASE_STUDY.md) |
+
+**Hire Me page:** [mafzalkalwardev.github.io/#hire-me](https://mafzalkalwardev.github.io/#hire-me) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev)
 
 ---
 
