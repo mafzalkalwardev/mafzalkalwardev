@@ -1,275 +1,161 @@
-<div align="center">
+# Muhammad Afzal Kalwar — Python Automation & Auto Dialer Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:059669&height=190&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20Automation%20Engineer&descAlignY=62&descSize=16" alt="Muhammad Afzal Kalwar — Full-Stack Developer and Python Automation Engineer" />
+Muhammad Afzal Kalwar is a Python automation developer and founder of INDUS Web Agency who builds auto dialers, AI call agents, web scrapers and CRMs for logistics, sales and call-center teams in the US, UK and Europe.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+CRM%2C+scraping%2C+dispatch%2C+email%2C+and+AI+workflow+tools;Python+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Go;Playwright+%7C+PyQt6+%7C+FastAPI+%7C+Docker;Open+to+freelance%2C+contract%2C+and+remote+work" alt="Typing intro for Muhammad Afzal Kalwar" />
+Python Automation Developer in Islamabad, Pakistan — available remotely for US, UK and EU teams. **Python Automation Developer & Founder, INDUS Web Agency.**
 
-<br/><br/>
+Muhammad Afzal Kalwar / INDUS Web Agency, Islamabad, Pakistan · [+92 307 9670503](https://wa.me/923079670503) · [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) · [induswebagency.com](https://www.induswebagency.com)
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Hire_Me-059669?style=for-the-badge&logo=handshake&logoColor=white)](#work-with-me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafzalkalwardev/)
-[![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923079670503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923079670503)
+Portfolio: [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io/)
 
-<br/>
+He publishes GV Auto Dialer, GchoPro Solutions Auto Dialer and IPECS Auto Dialer on the Chrome Web Store, and he built CallAudit-X, Indus Carrier Directory (FMCSA carrier lookup), the Google Voice Dispatch Agent and MailForge. He also owns Indus Transports LLC and has a background in US trucking sales and dispatch. Bachelor of Science in Computer Science, Air University, Islamabad.
 
-<img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Profile+views&color=2563eb&style=for-the-badge" alt="Profile views for mafzalkalwardev" />
+## What I build
 
-</div>
+Remote work for logistics, trucking dispatch, sales and call-center teams in the United States, the United Kingdom and Europe.
 
----
-
-## About Me
-
-**Muhammad Afzal Kalwar** ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) is a **Full-Stack Developer** and **Python Automation Engineer** based in **Islamabad, Pakistan**, available for remote freelance, contract, and full-time work worldwide.
-
-**One-line answer:** He builds CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, and AI voice/call workflow systems for real businesses.
-
-He ships practical software for operations teams: Playwright/Selenium scrapers, Google Voice / iPECS dialers, SMTP and bulk email platforms, call-audit SaaS, logistics marketing sites, and full-stack admin dashboards (React, Next.js, Node.js, FastAPI, Go).
-
-**Personal brand:** **Muhammad Afzal Kalwar / mafzalkalwardev**. Client and product labels such as Indus Transports, Indus Web Agency, FT Solutions, and logistics brands are **project contexts**, not separate personal brands.
-
----
-
-## Quick Facts (for search & AI answers)
-
-| Fact | Value |
+| Role | What it covers |
 |:--|:--|
-| Name | Muhammad Afzal Kalwar |
-| GitHub | [@mafzalkalwardev](https://github.com/mafzalkalwardev) |
-| Role | Full-Stack Developer, Python Automation Engineer |
-| Location | Islamabad, Pakistan (remote worldwide) |
-| Company / studio | INDUS Web Agency |
-| Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
-| Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
-| WhatsApp | [+923079670503](https://wa.me/923079670503) |
-| LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
-| Core stack | Python, JavaScript/TypeScript, Go, React, Node.js, FastAPI, Playwright, Selenium, Docker |
-| Specialty | Business automation — dialers, scrapers, email ops, CRM, AI call workflows |
+| Auto Dialer Developer | Google Voice auto dialers, iPECS Cloud dialers, and Python / Windows dialers for sales and dispatch calling |
+| AI Call Agent Developer | AI call agents that handle dispatch calls, plus call QA and call auditing software |
+| Web Scraping Developer (JavaScript-heavy, bot-protected sites) | Playwright and Selenium scrapers, including FMCSA carrier data and freight carrier lookup |
+| Chrome Extension Developer | Manifest V3 auto dialers for Google Voice, iPECS and GchoPro |
+| Remote CRM Developer | Lead and sales CRMs, including CRMs for trucking companies |
+| Logistics automation developer | Trucking dispatch software, carrier directories and FMCSA data tools |
+| Email verification tool developer | Bulk email verification and self-hosted email operations |
 
----
+Portfolio service pages: [Auto dialers](https://mafzalkalwardev.github.io/services-dialers.html) · [Scrapers / FMCSA](https://mafzalkalwardev.github.io/services-scrapers.html) · [Email and CRM](https://mafzalkalwardev.github.io/services-email-crm.html) · [Services hub](https://mafzalkalwardev.github.io/services.html)
 
-## What I Build
+## Featured projects
 
-- CRM dashboards and lead workflow tools
-- Playwright and Selenium scrapers for business research
-- Dispatch, logistics, and transport operations software
-- Sales workflow automation and internal business tools
-- Email verification, SMTP, and permission-based outreach tools
-- AI voice, Google Voice dialers, and call analytics systems
-- Python desktop utilities (PyQt6, Windows automation)
-- Full-stack business dashboards (React, Next.js, Node.js, FastAPI, Go)
+Public repositories under [@mafzalkalwardev](https://github.com/mafzalkalwardev?tab=repositories). GchoPro Solutions Auto Dialer is on the Chrome Web Store only. There is no public GchoPro repository on this account.
 
----
+### Auto dialers
 
-## Work With Me
-
-| | |
-|:--|:--|
-| Roles | Full-Stack Developer, Python Engineer, Automation Engineer |
-| Availability | Freelance, contract, part-time, full-time remote |
-| Location | Islamabad, Pakistan — remote worldwide |
-| Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
-| Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
-| WhatsApp | [+923079670503](https://wa.me/923079670503) |
-| LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
-
-**Best project fit:** CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, admin dashboards, API integrations, Excel/data automation, and AI workflow systems.
-
----
-
-## Featured Projects
-
-| Project | What it is | Keywords |
+| Project | What it is | Repository |
 |:--|:--|:--|
-| [Google Voice Dispatch Agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) | Live AI outbound calling console for Google Voice with STT, LLM, TTS, FastAPI operator UI, and CRM logging. | `google-voice` `auto-dialer` `fastapi` `voice-ai` |
-| [IPECS Auto Dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer) | Chrome MV3 queue dialer for UK outbound calling on iPECS Cloud. | `ipecs` `chrome-extension` `outbound-calling` |
-| [MailForge](https://github.com/mafzalkalwardev/mailforge) | Self-hosted email operations platform for verification, multi-sender campaigns, and reply workflows. | `email-automation` `smtp` `self-hosted` |
-| [Bulk Email Verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) | Self-hosted bulk verification with syntax, MX, SMTP checks, Node.js UI, Go services, Docker. | `email-verification` `go` `docker` |
-| [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) | AI call auditing SaaS for transcription, quality scoring, reviews, and analytics. | `call-analytics` `ai` `saas` |
-| [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) | Production Windows dialer for dispatch teams with Google Voice automation and PyQt UI. | `python` `pyqt6` `dispatch-software` |
-| [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) | Website scraping/cloning toolkit with Playwright, GUI, Express backend, multi-page export. | `playwright` `web-scraping` |
-| [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | Full-stack lead CRM with Playwright workers, queues, Excel export, and Electron packaging. | `crm` `lead-generation` `typescript` |
+| GV Auto Dialer | Chrome MV3 Google Voice queue dialer | [gv-auto-dialer-chrome-extension](https://github.com/mafzalkalwardev/gv-auto-dialer-chrome-extension) |
+| IPECS Auto Dialer | Chrome MV3 dialer for UK outbound calling on iPECS Cloud | [ipecs-auto-dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer) |
+| Indus Transport Auto Dialer | Windows Google Voice dialer for dispatch teams, with Excel import and a PyQt6 UI | [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) |
+| Python Auto Dialer Pro | Python GUI auto dialer with Excel contact loading, call logging and PyAutoGUI | [python-auto-dialer-pro](https://github.com/mafzalkalwardev/python-auto-dialer-pro) |
+| Excel Call Queue Automator | Desktop Python call queue that imports Excel phone lists and exports CSV logs | [excel-call-queue-automator](https://github.com/mafzalkalwardev/excel-call-queue-automator) |
 
-[View more projects](https://mafzalkalwardev.github.io/projects.html) · [Live demos](https://mafzalkalwardev.github.io/demos.html) · [All repositories](https://github.com/mafzalkalwardev?tab=repositories)
+### AI call agent and call QA
 
----
+| Project | What it is | Repository |
+|:--|:--|:--|
+| Google Voice Dispatch Agent | AI call agent for Google Voice dispatch calls. Selenium, Groq, local TTS, voicemail handling and a FastAPI operator flow | [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent) |
+| CallAudit-X | AI call auditing and call QA: transcription, quality scoring, review workflows and analytics | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) |
 
-## Case Studies
+### Freight carrier lookup
 
-Problem → stack → result write-ups on flagship repos:
+| Project | What it is | Repository |
+|:--|:--|:--|
+| Indus Carrier Directory | Freight carrier lookup on FMCSA SAFER data, with MC/DOT search for logistics leads | [indus-carrier-directory](https://github.com/mafzalkalwardev/indus-carrier-directory) |
 
-| Project | Case study |
+### Email verification
+
+| Project | What it is | Repository |
+|:--|:--|:--|
+| MailForge | Self-hosted email operations: list verification, multi-sender campaigns and reply management | [mailforge](https://github.com/mafzalkalwardev/mailforge) |
+
+Related public tools: [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier) · [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) · [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper) · [safer-web-scraper](https://github.com/mafzalkalwardev/safer-web-scraper) · [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm)
+
+### Chrome Web Store
+
+| Extension | Listing |
 |:--|:--|
-| Google Voice Dispatch Agent | [CASE_STUDY.md](https://github.com/mafzalkalwardev/google-voice-dispatch-agent/blob/main/CASE_STUDY.md) |
-| Fiverr Lead Extractor CRM | [CASE_STUDY.md](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm/blob/main/CASE_STUDY.md) |
-| SAFER Web Scraper | [CASE_STUDY.md](https://github.com/mafzalkalwardev/safer-web-scraper/blob/main/CASE_STUDY.md) |
-| Email Verification Platform | [CASE_STUDY.md](https://github.com/mafzalkalwardev/email-verification-platform/blob/main/CASE_STUDY.md) |
-| Playwright Website Scraper Pro | [CASE_STUDY.md](https://github.com/mafzalkalwardev/playwright-website-scraper-pro/blob/main/CASE_STUDY.md) |
-| Python Auto Dialer Pro | [CASE_STUDY.md](https://github.com/mafzalkalwardev/python-auto-dialer-pro/blob/main/CASE_STUDY.md) |
+| GV Auto Dialer by Indus Web Agency | [Chrome Web Store](https://chromewebstore.google.com/detail/gv-auto-dialer-by-indus-w/mhmfioegohbhejocblgpacabecelbkoi) |
+| IPECS Auto Dialer by Indus Web Agency | [Chrome Web Store](https://chromewebstore.google.com/detail/ipecs-auto-dialer-by-indu/jocjgmjjcmfdkcajfhblilmeamfkhahk) |
+| GchoPro Solutions Auto Dialer | [Chrome Web Store](https://chromewebstore.google.com/detail/gchopro-solutions-auto-di/andjenipikfajnahdljcdnkbiccdince) |
 
-**Hire Me page:** [mafzalkalwardev.github.io/#hire-me](https://mafzalkalwardev.github.io/#hire-me) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev)
+## Tech stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## FAQ (AEO / answer-engine ready)
+Python, FastAPI, Playwright, Selenium, Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB and Docker.
 
-### Who is Muhammad Afzal Kalwar?
-Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). He builds CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and is open to remote freelance and contract work.
+## FAQ
 
-### What does mafzalkalwardev specialize in?
-Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
+### Who builds Google Voice auto dialers?
 
-### How can I hire Muhammad Afzal Kalwar?
-Email [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com), WhatsApp [+923079670503](https://wa.me/923079670503), LinkedIn [profile](https://www.linkedin.com/in/mafzalkalwardev/), or browse [his portfolio](https://mafzalkalwardev.github.io).
+Muhammad Afzal Kalwar, founder of INDUS Web Agency, builds Google Voice auto dialers, including GV Auto Dialer on the Chrome Web Store.
 
-### What are his best open-source / public projects?
-Start with [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [mailforge](https://github.com/mafzalkalwardev/mailforge), [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [ipecs-auto-dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer), and [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro).
+### Who can build an AI call agent for a trucking or dispatch company?
 
-### Where is he based and does he work remotely?
-He is based in Islamabad, Pakistan and works remotely with clients worldwide.
+Muhammad Afzal Kalwar built the Google Voice Dispatch Agent (Selenium, Groq, Edge TTS, FastAPI) and builds custom AI call agents for logistics teams.
 
----
+### Where can I hire a Python automation freelancer for web scraping?
 
-## Education
+Muhammad Afzal Kalwar builds Playwright and Selenium scrapers and Python automation. Contact him at mafzalkalwardev.github.io/#hire-me.
 
-<table>
-<tr>
-<td width="72" valign="top">
-<img src="assets/air-university.png" width="64" height="64" alt="Air University Islamabad logo" />
-</td>
-<td valign="top">
+### Is there a freight carrier lookup tool using FMCSA data?
 
-**Bachelor of Science in Computer Science** — **Air University, Islamabad** — *Graduated*
+Yes. Indus Carrier Directory, built by Muhammad Afzal Kalwar, looks up freight carriers from FMCSA data.
 
-Algorithms, software engineering, databases, operating systems, computer networks, and systems programming.
+### What is INDUS Web Agency?
 
-</td>
-</tr>
-</table>
+INDUS Web Agency (induswebagency.com) is a software agency in Islamabad, Pakistan, founded by Muhammad Afzal Kalwar. It builds automation tools for logistics, sales and call centers.
 
----
+### Does he work with US, UK and European clients?
 
-## Tech Stack
+Yes, remotely. He's available during UK mornings and US afternoons and quotes in USD, GBP or EUR.
 
-<div align="center">
+### Which auto dialer Chrome extensions has he published?
 
-**Languages**
+GV Auto Dialer, GchoPro Solutions Auto Dialer and IPECS Auto Dialer, all on the Chrome Web Store.
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,cs,html,css" alt="Languages used by Muhammad Afzal Kalwar" />
+## Hire me
 
-**Frontend and desktop**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,qt" alt="Frontend and desktop skills" />
-
-**Backend and data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,mongodb,postgresql,sqlite,redis" alt="Backend and data skills" />
-
-**Automation, AI, and DevOps**
-
-<img src="https://skillicons.dev/icons?i=playwright,selenium,docker,kubernetes,tensorflow,pytorch,git,github,linux,nginx,vite" alt="Automation AI and DevOps skills" />
-
-</div>
-
----
-
-## Repository Highlights
-
-| Category | Repositories |
+| Channel | Link |
 |:--|:--|
-| Dialers and voice | [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [ipecs-auto-dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer), [indus-transport-auto-dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer), [tony-ai](https://github.com/mafzalkalwardev/tony-ai) |
-| Email platforms | [mailforge](https://github.com/mafzalkalwardev/mailforge), [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [email-verifier-pro](https://github.com/mafzalkalwardev/email-verifier-pro) |
-| Web, CRM, and SaaS | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [fiverr-lead-extractor-crm](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm), [indus-web-agency](https://github.com/mafzalkalwardev/indus-web-agency) |
-| Scrapers and data | [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro), [fmcsa-safer-scraper](https://github.com/mafzalkalwardev/fmcsa-safer-scraper), [safer-carrier-extractor](https://github.com/mafzalkalwardev/safer-carrier-extractor) |
-| All repositories | [Browse GitHub repositories](https://github.com/mafzalkalwardev?tab=repositories) |
+| WhatsApp | [+92 307 9670503](https://wa.me/923079670503) |
+| Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
+| Portfolio | [mafzalkalwardev.github.io/#hire-me](https://mafzalkalwardev.github.io/#hire-me) |
+| Linktree | [linktr.ee/mafzalkalwardev](https://linktr.ee/mafzalkalwardev) |
+| Upwork | [Upwork profile](https://www.upwork.com/freelancers/~01f4ad6974fac97bf3) |
 
----
+## Availability
 
-## GitHub Achievements & Highlights
+Remote for US, UK and EU teams. Available during UK mornings and US afternoons. Quotes in USD, GBP or EUR, fixed-price or hourly. Based in Islamabad, Pakistan.
 
-<div align="center">
+## Find me elsewhere
 
-### Achievements
+Same profiles, same name: Muhammad Afzal Kalwar (@mafzalkalwardev).
 
-<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Pull Shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="72" alt="Pull Shark bronze" />
-</a>
-<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Pair Extraordinaire">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="72" alt="Pair Extraordinaire bronze" />
-</a>
-<a href="https://github.com/mafzalkalwardev?tab=achievements" title="YOLO">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" />
-</a>
-<a href="https://github.com/mafzalkalwardev?tab=achievements" title="Quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" />
-</a>
-<a href="https://github.com/mafzalkalwardev/indus-transport-auto-dialer/discussions" title="Galaxy Brain">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" />
-</a>
+- [GitHub](https://github.com/mafzalkalwardev)
+- [X](https://x.com/mafzalkalwardev)
+- [LinkedIn](https://www.linkedin.com/in/mafzalkalwardev)
+- [DEV](https://dev.to/mafzalkalwardev)
+- [Hashnode](https://mafzalkalwardev.hashnode.dev)
+- [Medium](https://medium.com/@mafzalkalwardev)
+- [Stack Overflow](https://stackoverflow.com/users/33261021/muhammad-afzal-kalwar)
+- [Peerlist](https://peerlist.io/mafzalkalwardev)
+- [Product Hunt](https://www.producthunt.com/@mafzalkalwardev)
+- [Indie Hackers](https://www.indiehackers.com/mafzalkalwardev)
+- [Contra](https://contra.com/mafzalkalwardev)
+- [Wellfound](https://wellfound.com/u/muhammad-afzal-kalwar)
+- [Arc](https://arc.dev/@muhammadafzalkalwar)
+- [Freelancer](https://www.freelancer.com/u/mafzalkalwardev)
+- [Guru](https://www.guru.com/freelancers/muhammad-afzal-kalwar)
+- [PeoplePerHour](https://www.peopleperhour.com/freelancer/muhammad_afzal-kalwar-python-automation-dev-auto-dialers-zxnqwwyj)
+- [Upwork](https://www.upwork.com/freelancers/~01f4ad6974fac97bf3)
+- [Gravatar](https://gravatar.com/mafzalkalwardev)
+- [Kaggle](https://www.kaggle.com/mafzalkalwardev)
+- [CodePen](https://codepen.io/mafzalkalwardev)
+- [HackerRank](https://www.hackerrank.com/profile/mafzalkalwardev)
+- [daily.dev](https://app.daily.dev/mafzalkalwardev)
+- [Quora](https://www.quora.com/profile/Muhammad-Afzal-Kalwar)
+- [Linktree](https://linktr.ee/mafzalkalwardev)
 
-<br/>
-
-[![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-91_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
-
-### Highlights
-
-| Highlight | Status |
-|:--|:--|
-| **GitHub Pro** | Active |
-| **Developer Program Member** | Active |
-| **Galaxy Brain** | Q&A on [Auto Dialer Discussions](https://github.com/mafzalkalwardev/indus-transport-auto-dialer/discussions) |
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation for mafzalkalwardev" src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
----
-
-## Discoverability
-
-**Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Full-Stack Developer & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
-
-**Hire / contact:** GitHub [@mafzalkalwardev](https://github.com/mafzalkalwardev) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [Email](mailto:kalwarmuhammadafzal3@gmail.com)
-
-### Who is this for?
-Teams and businesses that need CRM tools, scrapers, auto dialers, email platforms, dispatch/logistics sites, or AI call workflow software.
-
-### FAQ
-- **Who built this?** Muhammad Afzal Kalwar (`mafzalkalwardev`).
-- **Can I hire the author?** Yes — remote freelance and contract. See contact links above.
-- **Related work?** Browse [all repositories](https://github.com/mafzalkalwardev?tab=repositories) and the [live portfolio](https://mafzalkalwardev.github.io).
-
-<details>
-<summary><strong>SEO / GEO / AEO keywords</strong></summary>
-
-Muhammad Afzal Kalwar, mafzalkalwardev, full-stack developer, Python automation engineer, Islamabad Pakistan, freelance remote developer, CRM scraping dialer email AI tools, full-stack, auto-dialer, playwright, ai, pyqt6, open-source, smtp, developer-profile, outbound-calling, automation, telephony, email-automation
-
-</details>
-## Services one-pager
-
-[Download PDF](https://mafzalkalwardev.github.io/assets/Muhammad-Afzal-Kalwar-Services.pdf) · [Hire Me page](https://mafzalkalwardev.github.io/#hire-me)
-
-## Services (inbound SEO pages)
-
-- [Services hub](https://mafzalkalwardev.github.io/services.html)
-- [Auto dialers](https://mafzalkalwardev.github.io/services-dialers.html)
-- [Scrapers / FMCSA](https://mafzalkalwardev.github.io/services-scrapers.html)
-- [Email & CRM](https://mafzalkalwardev.github.io/services-email-crm.html)
-
+**INDUS Web Agency:** [induswebagency.com](https://www.induswebagency.com) · [LinkedIn company](https://www.linkedin.com/company/induswebagency) · [Crunchbase](https://www.crunchbase.com/organization/indus-web-agency) · [GoodFirms](https://www.goodfirms.co/company/indus-web-agency)
