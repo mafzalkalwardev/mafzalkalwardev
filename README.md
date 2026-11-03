@@ -42,6 +42,7 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | Location | Islamabad, Pakistan (remote worldwide) |
 | Company / studio | INDUS Web Agency |
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
+| All links | [Tapvio page](https://mafzalkalwardev.github.io/tapvio/mafzalkalwardev/) |
 | Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
 | LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
@@ -90,6 +91,7 @@ He ships practical software for operations teams: Playwright/Selenium scrapers, 
 | [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X) | AI call auditing SaaS for transcription, quality scoring, reviews, and analytics. | `call-analytics` `ai` `saas` |
 | [Indus Transport Auto Dialer](https://github.com/mafzalkalwardev/indus-transport-auto-dialer) | Production Windows dialer for dispatch teams with Google Voice automation and PyQt UI. | `python` `pyqt6` `dispatch-software` |
 | [Playwright Scraper Pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro) | Website scraping/cloning toolkit with Playwright, GUI, Express backend, multi-page export. | `playwright` `web-scraping` |
+| [Tapvio](https://github.com/mafzalkalwardev/tapvio) | Free, open-source link-in-bio pages with nine themes and built-in SEO, published on GitHub Pages. [Live site](https://mafzalkalwardev.github.io/tapvio/) | `link-in-bio` `linktree-alternative` `python` |
 | [Fiverr Lead Extractor CRM](https://github.com/mafzalkalwardev/fiverr-lead-extractor-crm) | Full-stack lead CRM with Playwright workers, queues, Excel export, and Electron packaging. | `crm` `lead-generation` `typescript` |
 
 [View more projects](https://mafzalkalwardev.github.io/projects.html) · [Live demos](https://mafzalkalwardev.github.io/demos.html) · [All repositories](https://github.com/mafzalkalwardev?tab=repositories)
