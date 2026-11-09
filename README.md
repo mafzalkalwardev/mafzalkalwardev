@@ -214,7 +214,7 @@ Algorithms, software engineering, databases, operating systems, computer network
 <br/>
 
 [![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-91_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open_Source-100_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
 
 ### Highlights
 
