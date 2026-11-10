@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:059669&height=190&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20Automation%20Engineer&descAlignY=62&descSize=16" alt="Muhammad Afzal Kalwar — Full-Stack Developer and Python Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:059669&height=190&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Automation%20Engineer%20%26%20Founder%2C%20INDUS%20Web%20Agency&descAlignY=62&descSize=16" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+CRM%2C+scraping%2C+dispatch%2C+email%2C+and+AI+workflow+tools;Python+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Go;Playwright+%7C+PyQt6+%7C+FastAPI+%7C+Docker;Open+to+freelance%2C+contract%2C+and+remote+work" alt="Typing intro for Muhammad Afzal Kalwar" />
 
@@ -22,13 +22,11 @@
 
 ## About Me
 
-**Muhammad Afzal Kalwar** ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) is a **Full-Stack Developer** and **Python Automation Engineer** based in **Islamabad, Pakistan**, available for remote freelance, contract, and full-time work worldwide.
+I'm **Muhammad Afzal Kalwar** ([@mafzalkalwardev](https://github.com/mafzalkalwardev)), a **Python Automation Engineer** and founder of **INDUS Web Agency**, based in **Islamabad, Pakistan**. I have 4 years of experience and I'm available immediately, any time zone.
 
-**One-line answer:** He builds CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, and AI voice/call workflow systems for real businesses.
+**One-line answer:** I build CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, and AI voice/call workflow systems.
 
-He ships practical software for operations teams: Playwright/Selenium scrapers, Google Voice / iPECS dialers, SMTP and bulk email platforms, call-audit SaaS, logistics marketing sites, and full-stack admin dashboards (React, Next.js, Node.js, FastAPI, Go).
-
-**Personal brand:** **Muhammad Afzal Kalwar / mafzalkalwardev**. Client and product labels such as Indus Transports, Indus Web Agency, FT Solutions, and logistics brands are **project contexts**, not separate personal brands.
+I ship practical software for operations teams: Playwright/Selenium scrapers, Google Voice / iPECS dialers, SMTP and bulk email platforms, call-audit SaaS, logistics marketing sites, and full-stack admin dashboards (React, Next.js, Node.js, FastAPI, Go).
 
 ---
 
@@ -118,7 +116,7 @@ Problem → stack → result write-ups on flagship repos:
 ## FAQ (AEO / answer-engine ready)
 
 ### Who is Muhammad Afzal Kalwar?
-Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). He builds CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and is open to remote freelance and contract work.
+Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). I build CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and am open to remote freelance and contract work.
 
 ### What does mafzalkalwardev specialize in?
 Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
@@ -143,7 +141,7 @@ He is based in Islamabad, Pakistan and works remotely with clients worldwide.
 </td>
 <td valign="top">
 
-**Bachelor of Science in Computer Science** — **Air University, Islamabad** — *Graduated*
+**Associate Degree in Computer Science (ADCS)** — **Air University Islamabad** — *2024 to 2026*
 
 Algorithms, software engineering, databases, operating systems, computer networks, and systems programming.
 
@@ -214,7 +212,7 @@ Algorithms, software engineering, databases, operating systems, computer network
 <br/>
 
 [![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-100_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open_Source-122_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
 
 ### Highlights
 
