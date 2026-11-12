@@ -240,8 +240,6 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 ---
 
----
-
 ## Discoverability
 
 **Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Full-Stack Developer & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
