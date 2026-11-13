@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Muhammad Afzal Kalwar — Python Automation Engineer and Founder, INDUS Web Agency" width="100%" />
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-header.svg" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
 
-**Building CRM, scraping, dispatch, email, and AI workflow tools**
-
-Python · React · Node.js · TypeScript · Go · Playwright · PyQt6 · FastAPI · Docker
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-typing.svg" alt="Typing intro for Muhammad Afzal Kalwar" />
 
 <br/><br/>
 
@@ -118,7 +116,7 @@ Problem → stack → result write-ups on flagship repos:
 ## FAQ (AEO / answer-engine ready)
 
 ### Who is Muhammad Afzal Kalwar?
-Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). He builds CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and is open to remote freelance and contract work.
+Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). I build CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and am open to remote freelance and contract work.
 
 ### What does mafzalkalwardev specialize in?
 Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
