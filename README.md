@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:059669&height=190&section=header&text=Muhammad%20Afzal%20Kalwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Automation%20Engineer%20%26%20Founder%2C%20INDUS%20Web%20Agency&descAlignY=62&descSize=16" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
+<img src="assets/profile-banner.png" alt="Muhammad Afzal Kalwar — Python Automation Engineer and Founder, INDUS Web Agency" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=860&lines=Building+CRM%2C+scraping%2C+dispatch%2C+email%2C+and+AI+workflow+tools;Python+%7C+React+%7C+Node.js+%7C+TypeScript+%7C+Go;Playwright+%7C+PyQt6+%7C+FastAPI+%7C+Docker;Open+to+freelance%2C+contract%2C+and+remote+work" alt="Typing intro for Muhammad Afzal Kalwar" />
+**Building CRM, scraping, dispatch, email, and AI workflow tools**
+
+Python · React · Node.js · TypeScript · Go · Playwright · PyQt6 · FastAPI · Docker
 
 <br/><br/>
 
@@ -116,7 +118,7 @@ Problem → stack → result write-ups on flagship repos:
 ## FAQ (AEO / answer-engine ready)
 
 ### Who is Muhammad Afzal Kalwar?
-Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). I build CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and am open to remote freelance and contract work.
+Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). He builds CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and is open to remote freelance and contract work.
 
 ### What does mafzalkalwardev specialize in?
 Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
