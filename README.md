@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-header.svg" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-header.svg?v=3" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
 
 <img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-typing.svg" alt="Typing intro for Muhammad Afzal Kalwar" />
 
