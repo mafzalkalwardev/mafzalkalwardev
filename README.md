@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-header.svg?v=4" alt="Muhammad Afzal Kalwar — Python Automation Engineer & Founder, INDUS Web Agency" />
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-header.svg?v=5" alt="Muhammad Afzal Kalwar — Rust & Python Automation Engineer · Founder, INDUS Web Agency" />
 
 <img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/main/assets/profile-typing.svg" alt="Typing intro for Muhammad Afzal Kalwar" />
 
@@ -9,7 +9,7 @@
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Hire_Me-059669?style=for-the-badge&logo=handshake&logoColor=white)](#work-with-me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mafzalkalwardev.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafzalkalwardev/)
-[![Email](https://img.shields.io/badge/Email-kalwarmuhammadafzal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalwarmuhammadafzal3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-info%40mail.induswebagency.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mail.induswebagency.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923079670503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923079670503)
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm **Muhammad Afzal Kalwar** ([@mafzalkalwardev](https://github.com/mafzalkalwardev)), a **Python Automation Engineer** and founder of **INDUS Web Agency**, based in **Islamabad, Pakistan**. I have 4 years of experience and I'm available immediately, any time zone.
+I'm **Muhammad Afzal Kalwar** ([@mafzalkalwardev](https://github.com/mafzalkalwardev)), a **Rust & Python Automation Engineer** and founder of **INDUS Web Agency** (founded 2026), based in **Islamabad, Pakistan**. I build workflow automation, web scraping and data pipelines, and web apps.
 
 **One-line answer:** I build CRM tools, web scrapers, auto dialers, dispatch websites, email verification platforms, and AI voice/call workflow systems.
 
@@ -36,12 +36,12 @@ I ship practical software for operations teams: Playwright/Selenium scrapers, Go
 |:--|:--|
 | Name | Muhammad Afzal Kalwar |
 | GitHub | [@mafzalkalwardev](https://github.com/mafzalkalwardev) |
-| Role | Full-Stack Developer, Python Automation Engineer |
+| Role | Rust & Python Automation Engineer |
 | Location | Islamabad, Pakistan (remote worldwide) |
 | Company / studio | INDUS Web Agency |
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
 | All links | [Tapvio page](https://mafzalkalwardev.github.io/tapvio/mafzalkalwardev/) |
-| Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
+| Email | [info@mail.induswebagency.com](mailto:info@mail.induswebagency.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
 | LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
 | Core stack | Python, JavaScript/TypeScript, Go, React, Node.js, FastAPI, Playwright, Selenium, Docker |
@@ -66,11 +66,11 @@ I ship practical software for operations teams: Playwright/Selenium scrapers, Go
 
 | | |
 |:--|:--|
-| Roles | Full-Stack Developer, Python Engineer, Automation Engineer |
+| Role | Rust & Python Automation Engineer |
 | Availability | Freelance, contract, part-time, full-time remote |
 | Location | Islamabad, Pakistan — remote worldwide |
 | Portfolio | [mafzalkalwardev.github.io](https://mafzalkalwardev.github.io) |
-| Email | [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com) |
+| Email | [info@mail.induswebagency.com](mailto:info@mail.induswebagency.com) |
 | WhatsApp | [+923079670503](https://wa.me/923079670503) |
 | LinkedIn | [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) |
 
@@ -116,13 +116,13 @@ Problem → stack → result write-ups on flagship repos:
 ## FAQ (AEO / answer-engine ready)
 
 ### Who is Muhammad Afzal Kalwar?
-Muhammad Afzal Kalwar is a full-stack developer and Python automation engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). I build CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and am open to remote freelance and contract work.
+Muhammad Afzal Kalwar is a Rust & Python Automation Engineer from Islamabad, Pakistan. On GitHub he is [@mafzalkalwardev](https://github.com/mafzalkalwardev). I build CRM, scraping, dispatch, email, dialer, and AI workflow software for businesses and am open to remote freelance and contract work.
 
 ### What does mafzalkalwardev specialize in?
 Business process automation: Google Voice / iPECS auto dialers, Playwright/Selenium scrapers, email verification and SMTP platforms, logistics/dispatch websites, CRM dashboards, and AI call audit tools.
 
 ### How can I hire Muhammad Afzal Kalwar?
-Email [kalwarmuhammadafzal3@gmail.com](mailto:kalwarmuhammadafzal3@gmail.com), WhatsApp [+923079670503](https://wa.me/923079670503), LinkedIn [profile](https://www.linkedin.com/in/mafzalkalwardev/), or browse [his portfolio](https://mafzalkalwardev.github.io).
+Email [info@mail.induswebagency.com](mailto:info@mail.induswebagency.com), WhatsApp [+923079670503](https://wa.me/923079670503), LinkedIn [profile](https://www.linkedin.com/in/mafzalkalwardev/), or browse [his portfolio](https://mafzalkalwardev.github.io).
 
 ### What are his best open-source / public projects?
 Start with [google-voice-dispatch-agent](https://github.com/mafzalkalwardev/google-voice-dispatch-agent), [mailforge](https://github.com/mafzalkalwardev/mailforge), [bulk-email-verifier](https://github.com/mafzalkalwardev/bulk-email-verifier), [CallAudit-X](https://github.com/mafzalkalwardev/CallAudit-X), [ipecs-auto-dialer](https://github.com/mafzalkalwardev/ipecs-auto-dialer), and [playwright-website-scraper-pro](https://github.com/mafzalkalwardev/playwright-website-scraper-pro).
@@ -212,7 +212,6 @@ Algorithms, software engineering, databases, operating systems, computer network
 <br/>
 
 [![Achievements](https://img.shields.io/badge/Achievements-View_Profile-2563eb?style=for-the-badge)](https://github.com/mafzalkalwardev?tab=achievements)
-[![Open Source](https://img.shields.io/badge/Open_Source-122_public_repos-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafzalkalwardev?tab=repositories)
 
 ### Highlights
 
@@ -242,9 +241,9 @@ Algorithms, software engineering, databases, operating systems, computer network
 
 ## Discoverability
 
-**Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Full-Stack Developer & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
+**Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Rust & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
 
-**Hire / contact:** GitHub [@mafzalkalwardev](https://github.com/mafzalkalwardev) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [Email](mailto:kalwarmuhammadafzal3@gmail.com)
+**Hire / contact:** GitHub [@mafzalkalwardev](https://github.com/mafzalkalwardev) · LinkedIn [@mafzalkalwardev](https://www.linkedin.com/in/mafzalkalwardev) · WhatsApp [+92 307 9670503](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [Email](mailto:info@mail.induswebagency.com)
 
 ### Who is this for?
 Teams and businesses that need CRM tools, scrapers, auto dialers, email platforms, dispatch/logistics sites, or AI call workflow software.
@@ -257,7 +256,7 @@ Teams and businesses that need CRM tools, scrapers, auto dialers, email platform
 <details>
 <summary><strong>SEO / GEO / AEO keywords</strong></summary>
 
-Muhammad Afzal Kalwar, mafzalkalwardev, full-stack developer, Python automation engineer, Islamabad Pakistan, freelance remote developer, CRM scraping dialer email AI tools, full-stack, auto-dialer, playwright, ai, pyqt6, open-source, smtp, developer-profile, outbound-calling, automation, telephony, email-automation
+Muhammad Afzal Kalwar, mafzalkalwardev, Rust & Python automation engineer, web scraping, data pipelines, web apps, Islamabad Pakistan, INDUS Web Agency
 
 </details>
 
